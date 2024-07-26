@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f47d3f6b-ed0f-481a-8783-95526396f40a")
+	(paper "A4")
+	(title_block
+		(title "DAQIona_PWR")
+		(date "2024-04-26")
+		(rev "2")
+		(company "OPOTeK")
+	)
+	(lib_symbols)
+	(text "- AC/DC Power supply\n-- 5VA PWR --> RPI\n- DC/DC\n-- FPGA PWR (1.8V,2.5VB,3.3V) (LDO)\n-- AD7768 PWR (2.5VC,5VB)"
+		(exclude_from_sim no)
+		(at 51.816 37.338 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left)
+		)
+		(uuid "24b91b17-7f23-4f78-84a5-e56afb23a582")
+	)
+	(text "- AC/DC Power supply\n-- 5VA PWR --> RPI\n- DC/DC\n-- FPGA PWR (1.8V,2.5VB,3.3V)\n-- AD7768 PWR (2.5VC,5VB)"
+		(exclude_from_sim no)
+		(at 53.594 72.39 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left)
+		)
+		(uuid "47a5d80f-9b5f-49de-9ba1-f4bb4f871d87")
+	)
+	(text "Stackup: Sig + PWR // GND /// GND // Sig + PWR\n"
+		(exclude_from_sim no)
+		(at 77.216 134.874 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8173bb50-bec5-4c05-9f58-26925fb23e7a")
+	)
+	(sheet
+		(at 153.67 63.5)
+		(size 24.13 63.5)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 137 63 140 0.5100)
+		)
+		(uuid "410d7a4d-1874-41dd-a85d-84e4e679b08d")
+		(property "Sheetname" "(4) FPGA"
+			(at 153.67 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA.kicad_sch"
+			(at 153.67 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daqIONA"
+				(path "/f47d3f6b-ed0f-481a-8783-95526396f40a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 51.816 63.754)
+		(size 45.974 63.5)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 255 0 0.5000)
+		)
+		(uuid "50792081-f14c-4930-8cfc-9386792323d5")
+		(property "Sheetname" "(2) Front End"
+			(at 51.816 63.0424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FrontEnd.kicad_sch"
+			(at 51.816 127.8386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daqIONA"
+				(path "/f47d3f6b-ed0f-481a-8783-95526396f40a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 108.712 63.5)
+		(size 32.258 63.5)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 255 255 1.0000)
+		)
+		(uuid "843e6ad9-748e-4c64-a007-793fc47906a2")
+		(property "Sheetname" "(3) ADC"
+			(at 108.712 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADC.kicad_sch"
+			(at 108.712 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daqIONA"
+				(path "/f47d3f6b-ed0f-481a-8783-95526396f40a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 51.054 26.162)
+		(size 177.8 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 255 0.5000)
+		)
+		(uuid "876833b1-ed1e-43a9-8c33-ef43b1c85ab3")
+		(property "Sheetname" "(1) Power Supply"
+			(at 51.054 25.4504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PWR.kicad_sch"
+			(at 51.054 50.8766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daqIONA"
+				(path "/f47d3f6b-ed0f-481a-8783-95526396f40a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 191.77 62.992)
+		(size 36.576 63.754)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 0 0 1.0000)
+		)
+		(uuid "876f5c0e-843e-4403-a11b-0a4bb8719166")
+		(property "Sheetname" "(5) RPI SbC"
+			(at 191.77 62.2804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 191.77 127.3306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daqIONA"
+				(path "/f47d3f6b-ed0f-481a-8783-95526396f40a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

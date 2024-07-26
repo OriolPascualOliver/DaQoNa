@@ -1,0 +1,3219 @@
+Info: Procesando el símbolo 'C1:Capacitor_SMD:CP_Elec_8x6.9'.
+Info: Procesando el símbolo 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'J9:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal'.
+Info: Procesando el símbolo 'C33:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'J4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C13:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C42:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C24:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'D2:LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Procesando el símbolo 'L2:Inductor_SMD:L_Bourns_SRN6045TA'.
+Info: Procesando el símbolo 'JP6:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'JP2:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'C2:Capacitor_SMD:CP_Elec_8x6.9'.
+Info: Procesando el símbolo 'FID1:Fiducial:Fiducial_0.5mm_Mask1mm'.
+Info: Procesando el símbolo 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'JP10:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'R12:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C14:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'F1:Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C34:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R21:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C25:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R36:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C43:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'C3:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'JP14:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'D3:Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm'.
+Info: Procesando el símbolo 'J5:Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical'.
+Info: Procesando el símbolo 'R18:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C15:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'FID2:Fiducial:Fiducial_0.5mm_Mask1mm'.
+Info: Procesando el símbolo 'R25:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'J10:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal'.
+Info: Procesando el símbolo 'C26:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C4:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C35:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R26:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C44:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'JP7:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'C16:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Procesando el símbolo 'F2:Fuse:Fuse_Littelfuse_372_D8.50mm'.
+Info: Procesando el símbolo 'D4:LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'JP3:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'R24:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C5:Capacitor_SMD:CP_Elec_8x6.9'.
+Info: Procesando el símbolo 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C27:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C36:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'FID3:Fiducial:Fiducial_0.5mm_Mask1mm'.
+Info: Procesando el símbolo 'J6:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'JP11:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'C17:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R27:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C45:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'C6:Capacitor_SMD:CP_Elec_8x6.9'.
+Info: Procesando el símbolo 'R20:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'K1:Relay_THT:Relay_SPDT_Finder_32.21-x000'.
+Info: Procesando el símbolo 'D5:LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C28:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'F3:Fuse:Fuse_Littelfuse_372_D8.50mm'.
+Info: Procesando el símbolo 'C37:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R30:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C18:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'J12:Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical'.
+Info: Procesando el símbolo 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'C7:Capacitor_SMD:CP_Elec_8x6.9'.
+Info: Procesando el símbolo 'R23:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C46:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'J14:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C29:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'JP8:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'J7:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal'.
+Info: Procesando el símbolo 'C19:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C38:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'JP4:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'D6:Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm'.
+Info: Procesando el símbolo 'C8:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R17:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'F4:Fuse:Fuse_Littelfuse_372_D8.50mm'.
+Info: Procesando el símbolo 'R11:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R32:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'JP12:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'C47:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm'.
+Info: Procesando el símbolo 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'C20:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C30:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C9:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C39:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'R28:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'D7:Diode_SMD:D_MiniMELF'.
+Info: Procesando el símbolo 'J13:Connector_HDMI:HDMI_A_Molex_208658-1001_Horizontal'.
+Info: Procesando el símbolo 'R34:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R19:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'F5:Fuse:Fuse_Littelfuse_372_D8.50mm'.
+Info: Procesando el símbolo 'C21:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C10:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C48:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'C31:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'L1:Inductor_SMD:L_Bourns_SRN6045TA'.
+Info: Procesando el símbolo 'C40:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'J8:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal'.
+Info: Procesando el símbolo 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'JP5:Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'J3:TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal'.
+Info: Procesando el símbolo 'JP1:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'D8:Diode_SMD:D_MELF'.
+Info: Procesando el símbolo 'C11:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'C22:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'JP9:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'R22:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R35:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R29:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C32:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'D1:LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Procesando el símbolo 'C41:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'JP13:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'R33:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'C12:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'FB1:Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder'.
+Info: Procesando el símbolo 'C23:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R31:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'D9:Diode_SMD:D_MELF'.
+Info: Procesando el símbolo 'R37:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R38:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R39:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R40:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R41:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R42:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R43:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R44:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R45:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R46:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R47:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R48:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R49:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R50:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R51:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R52:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R53:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R54:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R55:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R56:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Procesando el símbolo 'R57:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R58:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R59:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R60:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R61:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R62:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R63:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R64:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R66:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R67:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'R68:Resistor_SMD:R_0402_1005Metric'.
+Info: Procesando el símbolo 'R69:Resistor_SMD:R_0402_1005Metric'.
+Info: Procesando el símbolo 'RV1:Varistor:RV_Disc_D7mm_W4.2mm_P5mm'.
+Info: Procesando el símbolo 'TP1:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP2:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP3:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP4:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP5:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP6:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP7:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'TP8:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'TP9:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'TP10:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'TP11:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'TP12:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'U1:Library:DIP24_31.8X20.3X10.2_RCP'.
+Info: Procesando el símbolo 'U2:Converter_ACDC:Converter_ACDC_MeanWell_IRM-20-xx_THT'.
+Info: Procesando el símbolo 'U3:Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias'.
+Info: Procesando el símbolo 'U4:Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias'.
+Info: Procesando el símbolo 'U5:Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias'.
+Info: Procesando el símbolo 'U6:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'U7:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'U8:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'U9:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'U10:Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm'.
+Info: Procesando el símbolo 'U11:Library:Raspberry-Pi-4-Compute-Module'.
+Info: Procesando el símbolo 'U12:Package_QFP:LQFP-144_20x20mm_P0.5mm'.
+Info: Procesando el símbolo 'U13:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Procesando el símbolo 'U14:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Procesando el símbolo 'U15:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'U16:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'U17:Package_SO:SSOP-16_3.9x4.9mm_P0.635mm'.
+Info: Procesando el símbolo 'U18:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Procesando el símbolo 'U19:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Procesando el símbolo 'U20:Connector_RJ:RJ45_Wuerth_7499111446_Horizontal'.
+Info: Procesando el símbolo 'X1:Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm'.
+Indicador de referencia cambiado de REF** a C7.
+Valor C7 cambiado de CP_Elec_8x6.9 a 220uF.
+Asociación de símbolos C7 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/f70b25b2-6469-46d9-b507-4c2a9b859df1.
+Actualizados C7 campos.
+Nombre de hoja C7 actualizado a 'Power Supply'.
+Archivo de hoja C7 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C7 actualizados a 'CP_*'.
+Añadir red +5VA.
+C7 pin 1 conectado a +5VA.
+C7 pin 2 conectado a GND3.
+Añadir C8 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C8.
+Valor C8 cambiado de C_1206_3216Metric a 220uF.
+Asociación de símbolos C8 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/e2d8c883-364e-4424-b16e-e8b70e6b8ce7.
+Actualizados C8 campos.
+Nombre de hoja C8 actualizado a 'Power Supply'.
+Archivo de hoja C8 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C8 actualizados a 'CP_*'.
+C8 pin 2 conectado a GND3.
+C8 pin 1 conectado a +5VA.
+Añadir C9 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C9.
+Valor C9 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C9 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/67b90fc8-4934-4def-bc4e-867112e71567.
+Actualizados C9 campos.
+Nombre de hoja C9 actualizado a 'Power Supply'.
+Archivo de hoja C9 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C9 actualizados a 'C_*'.
+C9 pin 2 conectado a GND3.
+C9 pin 1 conectado a +5VA.
+Añadir C10 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C10.
+Valor C10 cambiado de C_1206_3216Metric a 1nF.
+Asociación de símbolos C10 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/6bfb3574-564c-460f-8cf9-053a571f22ca.
+Actualizados C10 campos.
+Nombre de hoja C10 actualizado a 'Power Supply'.
+Archivo de hoja C10 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C10 actualizados a 'C_*'.
+C10 pin 2 conectado a GND3.
+C10 pin 1 conectado a +5VA.
+Añadir C11 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C11.
+Valor C11 cambiado de C_1206_3216Metric a 10uF.
+Asociación de símbolos C11 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/464cfb72-7770-4677-b8bb-21cbc3c41ce1.
+Actualizados C11 campos.
+Nombre de hoja C11 actualizado a 'Power Supply'.
+Archivo de hoja C11 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C11 actualizados a 'C_*'.
+C11 pin 1 conectado a +5VA.
+C11 pin 2 conectado a GND3.
+Añadir C12 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C12.
+Valor C12 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C12 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/7b1e29cc-1ad7-4ba9-80d0-a6f8cbea98c7.
+Actualizados C12 campos.
+Nombre de hoja C12 actualizado a 'Power Supply'.
+Archivo de hoja C12 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C12 actualizados a 'C_*'.
+Añadir red +1V2.
+C12 pin 1 conectado a +1V2.
+C12 pin 2 conectado a GND3.
+Añadir C13 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C13.
+Valor C13 cambiado de C_1206_3216Metric a 10uF.
+Asociación de símbolos C13 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/137cc6ba-9b79-4abc-89d0-469f89f01ffd.
+Actualizados C13 campos.
+Nombre de hoja C13 actualizado a 'Power Supply'.
+Archivo de hoja C13 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C13 actualizados a 'C_*'.
+C13 pin 2 conectado a GND3.
+C13 pin 1 conectado a +1V2.
+Añadir C14 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C14.
+Valor C14 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C14 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/e376ed9e-65e7-4157-9b19-a5ab7157001d.
+Actualizados C14 campos.
+Nombre de hoja C14 actualizado a 'Power Supply'.
+Archivo de hoja C14 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C14 actualizados a 'C_*'.
+C14 pin 2 conectado a GND3.
+C14 pin 1 conectado a +1V2.
+Añadir C15 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C15.
+Valor C15 cambiado de C_1206_3216Metric a 10uF.
+Asociación de símbolos C15 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/e16031b9-74a7-4151-94d3-b9f3ea6bc7c4.
+Actualizados C15 campos.
+Nombre de hoja C15 actualizado a 'Power Supply'.
+Archivo de hoja C15 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C15 actualizados a 'C_*'.
+C15 pin 2 conectado a GND3.
+C15 pin 1 conectado a +5VA.
+Añadir C16 (huella 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Indicador de referencia cambiado de REF** a C16.
+Valor C16 cambiado de C_1206_3216Metric_Pad1.33x1.80mm_HandSolder a 100nF.
+Asociación de símbolos C16 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/f8b54681-0446-4cbb-a746-b13d64488d7d.
+Actualizados C16 campos.
+Nombre de hoja C16 actualizado a 'Power Supply'.
+Archivo de hoja C16 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C16 actualizados a 'C_*'.
+C16 pin 2 conectado a GND3.
+Añadir red +2V5.
+C16 pin 1 conectado a +2V5.
+Añadir C17 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C17.
+Valor C17 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C17 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/f69227ea-c4cf-4f5d-9ef5-6ab8803c747b.
+Actualizados C17 campos.
+Nombre de hoja C17 actualizado a 'Power Supply'.
+Archivo de hoja C17 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C17 actualizados a 'C_*'.
+C17 pin 1 conectado a +2V5.
+C17 pin 2 conectado a GND3.
+Añadir C18 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C18.
+Valor C18 cambiado de C_1206_3216Metric a 10uF.
+Asociación de símbolos C18 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/d7a06918-f111-4720-bf3e-82bb71a3065c.
+Actualizados C18 campos.
+Nombre de hoja C18 actualizado a 'Power Supply'.
+Archivo de hoja C18 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C18 actualizados a 'C_*'.
+C18 pin 1 conectado a +2V5.
+C18 pin 2 conectado a GND3.
+Añadir C19 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C19.
+Valor C19 cambiado de C_1206_3216Metric a 10uF.
+Asociación de símbolos C19 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/4e5178a9-aa56-4191-81db-17b6a4cdf236.
+Actualizados C19 campos.
+Nombre de hoja C19 actualizado a 'Power Supply'.
+Archivo de hoja C19 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C19 actualizados a 'C_*'.
+C19 pin 2 conectado a GND3.
+C19 pin 1 conectado a +5VA.
+Añadir C20 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C20.
+Valor C20 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C20 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/ce472e7a-c0f3-45b5-a029-dfc2d3bdefa5.
+Actualizados C20 campos.
+Nombre de hoja C20 actualizado a 'Power Supply'.
+Archivo de hoja C20 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C20 actualizados a 'C_*'.
+C20 pin 2 conectado a GND3.
+Añadir red +3V3.
+C20 pin 1 conectado a +3V3.
+Añadir C21 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C21.
+Valor C21 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C21 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/a87db9e4-1107-44f5-a01d-d249c9ee64a7.
+Actualizados C21 campos.
+Nombre de hoja C21 actualizado a 'Power Supply'.
+Archivo de hoja C21 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C21 actualizados a 'C_*'.
+C21 pin 1 conectado a +3V3.
+C21 pin 2 conectado a GND3.
+Añadir C22 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C22.
+Valor C22 cambiado de C_1206_3216Metric a 10uF.
+Asociación de símbolos C22 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/7ab00140-0c5e-4f34-9599-7211573e44b1.
+Actualizados C22 campos.
+Nombre de hoja C22 actualizado a 'Power Supply'.
+Archivo de hoja C22 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C22 actualizados a 'C_*'.
+C22 pin 2 conectado a GND3.
+C22 pin 1 conectado a +3V3.
+Añadir C23 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C23.
+Valor C23 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C23 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/c9bcacf7-123d-4bf8-b331-62211c228c54.
+Actualizados C23 campos.
+Nombre de hoja C23 actualizado a 'ADC'.
+Archivo de hoja C23 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C23 actualizados a 'C_*'.
+C23 pin 2 conectado a GND3.
+C23 pin 1 conectado a +5VA.
+Añadir C24 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C24.
+Valor C24 cambiado de C_1206_3216Metric a 1uF.
+Asociación de símbolos C24 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/db42a75f-9b51-4dab-bd4c-596f57450ea5.
+Actualizados C24 campos.
+Nombre de hoja C24 actualizado a 'ADC'.
+Archivo de hoja C24 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C24 actualizados a 'C_*'.
+C24 pin 2 conectado a GND3.
+Añadir red VREF.
+C24 pin 1 conectado a VREF.
+Añadir C25 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C25.
+Valor C25 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C25 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/6bb4a44c-fc1a-49eb-a920-5f0547f8e60f.
+Actualizados C25 campos.
+Nombre de hoja C25 actualizado a 'ADC'.
+Archivo de hoja C25 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C25 actualizados a 'C_*'.
+C25 pin 1 conectado a VREF.
+C25 pin 2 conectado a GND3.
+Añadir C26 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C26.
+Valor C26 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C26 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/d9fbfa5a-a85e-42c8-b579-77520ec86b63.
+Actualizados C26 campos.
+Nombre de hoja C26 actualizado a 'ADC'.
+Archivo de hoja C26 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C26 actualizados a 'C_*'.
+Añadir red AVDD.
+C26 pin 1 conectado a AVDD.
+C26 pin 2 conectado a GND3.
+Añadir C27 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C27.
+Valor C27 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C27 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/df69e06a-bb2f-4929-b73d-3e45281ec772.
+Actualizados C27 campos.
+Nombre de hoja C27 actualizado a 'ADC'.
+Archivo de hoja C27 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C27 actualizados a 'C_*'.
+C27 pin 1 conectado a AVDD.
+C27 pin 2 conectado a GND3.
+Añadir C28 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C28.
+Valor C28 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C28 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/914e3a82-1ed1-4307-8744-1191905f46d8.
+Actualizados C28 campos.
+Nombre de hoja C28 actualizado a 'ADC'.
+Archivo de hoja C28 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C28 actualizados a 'C_*'.
+C28 pin 2 conectado a GND3.
+C28 pin 1 conectado a AVDD.
+Añadir C29 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C29.
+Valor C29 cambiado de C_1206_3216Metric a 10p.
+Asociación de símbolos C29 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/d743186b-74d2-44a5-9afe-4fd5e73155de.
+Actualizados C29 campos.
+Nombre de hoja C29 actualizado a 'Front End'.
+Archivo de hoja C29 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C29 actualizados a 'C_*'.
+Añadir red Net-(C29-Pad2).
+C29 pin 2 conectado a Net-(C29-Pad2).
+Añadir red Net-(C29-Pad1).
+C29 pin 1 conectado a Net-(C29-Pad1).
+Añadir C30 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C30.
+Valor C30 cambiado de C_1206_3216Metric a 10p.
+Asociación de símbolos C30 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/52a623f1-a42b-4b0a-b545-31fe9dd121d0.
+Actualizados C30 campos.
+Nombre de hoja C30 actualizado a 'Front End'.
+Archivo de hoja C30 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C30 actualizados a 'C_*'.
+Añadir red /Front End/L1_LV.
+C30 pin 2 conectado a /Front End/L1_LV.
+C30 pin 1 conectado a Net-(C29-Pad2).
+Añadir C31 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C31.
+Valor C31 cambiado de C_1206_3216Metric a 10p.
+Asociación de símbolos C31 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/9fc39f38-ce15-43cc-9d00-03f8e0b3be45.
+Actualizados C31 campos.
+Nombre de hoja C31 actualizado a 'Front End'.
+Archivo de hoja C31 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C31 actualizados a 'C_*'.
+Añadir red Net-(C31-Pad1).
+C31 pin 1 conectado a Net-(C31-Pad1).
+Añadir red Net-(C31-Pad2).
+C31 pin 2 conectado a Net-(C31-Pad2).
+Añadir C32 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C32.
+Valor C32 cambiado de C_1206_3216Metric a 10p.
+Asociación de símbolos C32 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/4db1e247-0166-4815-89e4-64f1806a1c2c.
+Actualizados C32 campos.
+Nombre de hoja C32 actualizado a 'Front End'.
+Archivo de hoja C32 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C32 actualizados a 'C_*'.
+C32 pin 1 conectado a Net-(C31-Pad2).
+Añadir red /Front End/L2_LV.
+C32 pin 2 conectado a /Front End/L2_LV.
+Añadir C33 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C33.
+Valor C33 cambiado de C_1206_3216Metric a 10p.
+Asociación de símbolos C33 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/e10d3faa-deec-4e5e-ba5f-b9e91cf1fa98.
+Actualizados C33 campos.
+Nombre de hoja C33 actualizado a 'Front End'.
+Archivo de hoja C33 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C33 actualizados a 'C_*'.
+Añadir red Net-(C33-Pad2).
+C33 pin 2 conectado a Net-(C33-Pad2).
+Añadir red Net-(C33-Pad1).
+C33 pin 1 conectado a Net-(C33-Pad1).
+Añadir C34 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C34.
+Valor C34 cambiado de C_1206_3216Metric a 10p.
+Asociación de símbolos C34 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/4c24e9da-68ea-41db-81a7-45141cc87e82.
+Actualizados C34 campos.
+Nombre de hoja C34 actualizado a 'Front End'.
+Archivo de hoja C34 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C34 actualizados a 'C_*'.
+Añadir red /Front End/L3_LV.
+C34 pin 2 conectado a /Front End/L3_LV.
+C34 pin 1 conectado a Net-(C33-Pad2).
+Añadir C35 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C35.
+Valor C35 cambiado de C_1206_3216Metric a 1u.
+Asociación de símbolos C35 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/d706b0f4-25b1-4736-8805-d326bf4d2abf.
+Actualizados C35 campos.
+Nombre de hoja C35 actualizado a 'ADC'.
+Archivo de hoja C35 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C35 actualizados a 'C_*'.
+C35 pin 1 conectado a AVDD.
+C35 pin 2 conectado a GND3.
+Añadir C36 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C36.
+Valor C36 cambiado de C_1206_3216Metric a 1u.
+Asociación de símbolos C36 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/b28ce0ea-edf5-4138-838d-1f35458e9b55.
+Actualizados C36 campos.
+Nombre de hoja C36 actualizado a 'ADC'.
+Archivo de hoja C36 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C36 actualizados a 'C_*'.
+C36 pin 2 conectado a GND3.
+C36 pin 1 conectado a AVDD.
+Añadir C37 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C37.
+Valor C37 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C37 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/b4d6f9a8-cf2a-442c-972e-763fefbdc1a9.
+Actualizados C37 campos.
+Nombre de hoja C37 actualizado a 'ADC'.
+Archivo de hoja C37 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C37 actualizados a 'C_*'.
+C37 pin 1 conectado a +5VA.
+C37 pin 2 conectado a GND3.
+Añadir C38 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C38.
+Valor C38 cambiado de C_1206_3216Metric a 100nF.
+Asociación de símbolos C38 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/649df966-b4a1-4f74-be81-40f42b8d46e7.
+Actualizados C38 campos.
+Nombre de hoja C38 actualizado a 'ADC'.
+Archivo de hoja C38 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C38 actualizados a 'C_*'.
+C38 pin 1 conectado a +5VA.
+C38 pin 2 conectado a GND3.
+Añadir C39 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C39.
+Valor C39 cambiado de C_1206_3216Metric a 1u.
+Asociación de símbolos C39 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/3eda17cc-2571-465d-a771-cecca2af83ad.
+Actualizados C39 campos.
+Nombre de hoja C39 actualizado a 'ADC'.
+Archivo de hoja C39 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C39 actualizados a 'C_*'.
+C39 pin 2 conectado a GND3.
+C39 pin 1 conectado a +5VA.
+Añadir C40 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C40.
+Valor C40 cambiado de C_1206_3216Metric a 10n.
+Asociación de símbolos C40 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/022f38cc-bd52-480f-ae75-cf7f6d18061c.
+Actualizados C40 campos.
+Nombre de hoja C40 actualizado a 'Power Supply'.
+Archivo de hoja C40 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C40 actualizados a 'C_*'.
+Añadir red GNDS.
+C40 pin 1 conectado a GNDS.
+C40 pin 2 conectado a GND3.
+Añadir C41 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C41.
+Valor C41 cambiado de C_1206_3216Metric a 1u.
+Asociación de símbolos C41 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/62e28c02-ed11-4d0a-a84a-623bd18381c5.
+Actualizados C41 campos.
+Nombre de hoja C41 actualizado a 'ADC'.
+Archivo de hoja C41 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C41 actualizados a 'C_*'.
+Añadir red Net-(U10-REGCAPB).
+C41 pin 2 conectado a Net-(U10-REGCAPB).
+C41 pin 1 conectado a GND3.
+Añadir C42 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Indicador de referencia cambiado de REF** a C42.
+Valor C42 cambiado de C_1206_3216Metric a 10u.
+Asociación de símbolos C42 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/5ddb26a9-92e1-4fb5-90f7-f8bf263cec04.
+Actualizados C42 campos.
+Nombre de hoja C42 actualizado a 'ADC'.
+Archivo de hoja C42 actualizado a 'ADC.kicad_sch'.
+Filtros de huella C42 actualizados a 'C_*'.
+C42 pin 1 conectado a GND3.
+Añadir red Net-(U10-DREGCAP).
+C42 pin 2 conectado a Net-(U10-DREGCAP).
+Añadir C43 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Indicador de referencia cambiado de REF** a C43.
+Valor C43 cambiado de C_0402_1005Metric a 100n.
+Asociación de símbolos C43 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/04e403c6-e63e-45ed-9808-9230ed0bfadc.
+Actualizados C43 campos.
+Nombre de hoja C43 actualizado a 'RPI SoC'.
+Archivo de hoja C43 actualizado a 'MCU.kicad_sch'.
+Filtros de huella C43 actualizados a 'C_*'.
+C43 pin 2 conectado a GND.
+C43 pin 1 conectado a +5V.
+Añadir C44 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Indicador de referencia cambiado de REF** a C44.
+Valor C44 cambiado de C_0402_1005Metric a 100n.
+Asociación de símbolos C44 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/7c80f734-5aa5-47a2-9284-0935b9119a0a.
+Actualizados C44 campos.
+Nombre de hoja C44 actualizado a 'RPI SoC'.
+Archivo de hoja C44 actualizado a 'MCU.kicad_sch'.
+Filtros de huella C44 actualizados a 'C_*'.
+C44 pin 2 conectado a GND.
+Añadir red /RPI SoC/HDMI.5V.
+C44 pin 1 conectado a /RPI SoC/HDMI.5V.
+Añadir C45 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Indicador de referencia cambiado de REF** a C45.
+Valor C45 cambiado de C_0402_1005Metric a 100n.
+Asociación de símbolos C45 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/8b3058a9-53a1-4708-be14-cd1864a3fb08.
+Actualizados C45 campos.
+Nombre de hoja C45 actualizado a 'Front End'.
+Archivo de hoja C45 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C45 actualizados a 'C_*'.
+C45 pin 1 conectado a +5VA.
+C45 pin 2 conectado a GND3.
+Añadir C46 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Indicador de referencia cambiado de REF** a C46.
+Valor C46 cambiado de C_0402_1005Metric a 100n.
+Asociación de símbolos C46 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/cb7eb24e-a724-4bbf-8ff1-4b776dfd9be5.
+Actualizados C46 campos.
+Nombre de hoja C46 actualizado a 'Front End'.
+Archivo de hoja C46 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella C46 actualizados a 'C_*'.
+C46 pin 2 conectado a GND3.
+Añadir red /Front End/Ext5V.
+C46 pin 1 conectado a /Front End/Ext5V.
+Añadir C47 (huella 'Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm').
+Indicador de referencia cambiado de REF** a C47.
+Valor C47 cambiado de C_Disc_D16.0mm_W5.0mm_P10.00mm a Cy.
+Asociación de símbolos C47 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/a4bf4ed1-134b-41d5-b3e6-766aea28664d.
+Actualizados C47 campos.
+Nombre de hoja C47 actualizado a 'Power Supply'.
+Archivo de hoja C47 actualizado a 'PWR.kicad_sch'.
+Filtros de huella C47 actualizados a 'C_*'.
+C47 pin 1 conectado a GND.
+C47 pin 2 conectado a GND3.
+Añadir C48 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Indicador de referencia cambiado de REF** a C48.
+Valor C48 cambiado de C_0402_1005Metric a 100n.
+Asociación de símbolos C48 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/e3fbbf81-de94-448e-a53d-f499d42de3d5.
+Actualizados C48 campos.
+Nombre de hoja C48 actualizado a 'RPI SoC'.
+Archivo de hoja C48 actualizado a 'MCU.kicad_sch'.
+Filtros de huella C48 actualizados a 'C_*'.
+Añadir red Net-(C48-Pad1).
+C48 pin 1 conectado a Net-(C48-Pad1).
+C48 pin 2 conectado a GND.
+Añadir D1 (huella 'LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a D1.
+Valor D1 cambiado de LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder a LED.
+Asociación de símbolos D1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/49a5f55a-b564-4a26-9029-7de50cb932b9.
+Actualizados D1 campos.
+Nombre de hoja D1 actualizado a 'Power Supply'.
+Archivo de hoja D1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella D1 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Añadir red Net-(D1-K).
+D1 pin 1 conectado a Net-(D1-K).
+D1 pin 2 conectado a Net-(D1-A).
+Añadir D2 (huella 'LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a D2.
+Valor D2 cambiado de LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder a LED.
+Asociación de símbolos D2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/a5e8eed0-a574-4fd3-9da3-ed9dc718f645.
+Actualizados D2 campos.
+Nombre de hoja D2 actualizado a 'Power Supply'.
+Archivo de hoja D2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella D2 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+D2 pin 2 conectado a Net-(D2-A).
+Añadir red Net-(D2-K).
+D2 pin 1 conectado a Net-(D2-K).
+Añadir D3 (huella 'Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm').
+Indicador de referencia cambiado de REF** a D3.
+Valor D3 cambiado de Nexperia_DSN1608-2_1.6x0.8mm a PTVS5V0Z1USK.
+Asociación de símbolos D3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/232130fe-de58-4c8b-b26e-43d39a1b8dfd.
+Actualizados D3 campos.
+Nombre de hoja D3 actualizado a 'Power Supply'.
+Archivo de hoja D3 actualizado a 'PWR.kicad_sch'.
+Filtros de huella D3 actualizados a '*DSN1608?2*'.
+D3 pin 2 conectado a GND3.
+D3 pin 1 conectado a +5VA.
+Añadir D4 (huella 'LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a D4.
+Valor D4 cambiado de LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder a LED.
+Asociación de símbolos D4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/01f22148-7ae5-43d8-8de2-0fe857c47681.
+Actualizados D4 campos.
+Nombre de hoja D4 actualizado a 'Power Supply'.
+Archivo de hoja D4 actualizado a 'PWR.kicad_sch'.
+Filtros de huella D4 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+Añadir red Net-(D4-K).
+D4 pin 1 conectado a Net-(D4-K).
+D4 pin 2 conectado a +3V3.
+Añadir D5 (huella 'LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a D5.
+Valor D5 cambiado de LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder a LED.
+Asociación de símbolos D5 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/bd1dd93a-9706-49c7-849d-85b625a4aaf4.
+Actualizados D5 campos.
+Nombre de hoja D5 actualizado a 'Front End'.
+Archivo de hoja D5 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella D5 actualizados a 'LED* LED_SMD:* LED_THT:*'.
+D5 pin 2 conectado a /Front End/Ext5V.
+Añadir red Net-(D5-K).
+D5 pin 1 conectado a Net-(D5-K).
+Añadir D6 (huella 'Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm').
+Indicador de referencia cambiado de REF** a D6.
+Valor D6 cambiado de Nexperia_DSN1608-2_1.6x0.8mm a PTVS7V5Z1USK.
+Asociación de símbolos D6 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/6e998db1-2b1d-456c-9ff8-93aa57a1d4b7.
+Actualizados D6 campos.
+Nombre de hoja D6 actualizado a 'Front End'.
+Archivo de hoja D6 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella D6 actualizados a '*DSN1608?2*'.
+D6 pin 2 conectado a GND3.
+D6 pin 1 conectado a /Front End/Ext5V.
+Añadir D7 (huella 'Diode_SMD:D_MiniMELF').
+Indicador de referencia cambiado de REF** a D7.
+Valor D7 cambiado de D_MiniMELF a BZV55B2V4.
+Asociación de símbolos D7 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/822b923e-636c-4ef8-844f-31a7dbdedd25.
+Actualizados D7 campos.
+Nombre de hoja D7 actualizado a 'Front End'.
+Archivo de hoja D7 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella D7 actualizados a 'D*MiniMELF*'.
+D7 pin 1 conectado a GNDS.
+D7 pin 2 conectado a GND3.
+Añadir D8 (huella 'Diode_SMD:D_MELF').
+Indicador de referencia cambiado de REF** a D8.
+Valor D8 cambiado de D_MELF a D.
+Asociación de símbolos D8 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/442ad33f-1d04-4ea7-bbfd-ae1036a07f68.
+Actualizados D8 campos.
+Nombre de hoja D8 actualizado a 'Power Supply'.
+Archivo de hoja D8 actualizado a 'PWR.kicad_sch'.
+Filtros de huella D8 actualizados a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D8 pin 1 conectado a GNDS.
+D8 pin 2 conectado a GND3.
+Añadir D9 (huella 'Diode_SMD:D_MELF').
+Indicador de referencia cambiado de REF** a D9.
+Valor D9 cambiado de D_MELF a D.
+Asociación de símbolos D9 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/0d29eba3-4faf-41e8-97df-55cc182852b7.
+Actualizados D9 campos.
+Nombre de hoja D9 actualizado a 'Front End'.
+Archivo de hoja D9 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella D9 actualizados a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+D9 pin 1 conectado a +5V.
+Añadir red Net-(D9-A).
+D9 pin 2 conectado a Net-(D9-A).
+Añadir F1 (huella 'Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a F1.
+Valor F1 cambiado de Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder a Fuse.
+Asociación de símbolos F1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/26435791-b958-45fa-b471-b83e95e96976.
+Actualizados F1 campos.
+Nombre de hoja F1 actualizado a 'Power Supply'.
+Archivo de hoja F1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella F1 actualizados a '*Fuse*'.
+Añadir red Net-(U2-AC/L).
+F1 pin 2 conectado a Net-(U2-AC/L).
+Añadir red Net-(J1-Pin_1).
+F1 pin 1 conectado a Net-(J1-Pin_1).
+Añadir F2 (huella 'Fuse:Fuse_Littelfuse_372_D8.50mm').
+Indicador de referencia cambiado de REF** a F2.
+Valor F2 cambiado de Fuse_Littelfuse_372_D8.50mm a Fuse.
+Asociación de símbolos F2 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/de60b50f-270d-4ae0-bdac-6f97c11a3791.
+Actualizados F2 campos.
+Nombre de hoja F2 actualizado a 'Front End'.
+Archivo de hoja F2 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella F2 actualizados a '*Fuse*'.
+F2 pin 2 conectado a Net-(C29-Pad1).
+Añadir red /Front End/L1.
+F2 pin 1 conectado a /Front End/L1.
+Añadir F3 (huella 'Fuse:Fuse_Littelfuse_372_D8.50mm').
+Indicador de referencia cambiado de REF** a F3.
+Valor F3 cambiado de Fuse_Littelfuse_372_D8.50mm a Fuse.
+Asociación de símbolos F3 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/03057d2b-9f24-4481-b281-14208ce31c06.
+Actualizados F3 campos.
+Nombre de hoja F3 actualizado a 'Front End'.
+Archivo de hoja F3 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella F3 actualizados a '*Fuse*'.
+Añadir red /Front End/L2.
+F3 pin 2 conectado a /Front End/L2.
+F3 pin 1 conectado a Net-(C31-Pad1).
+Añadir F4 (huella 'Fuse:Fuse_Littelfuse_372_D8.50mm').
+Indicador de referencia cambiado de REF** a F4.
+Valor F4 cambiado de Fuse_Littelfuse_372_D8.50mm a Fuse.
+Asociación de símbolos F4 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/bf4eb542-57a5-4ff5-bfc0-da6a25a7e705.
+Actualizados F4 campos.
+Nombre de hoja F4 actualizado a 'Front End'.
+Archivo de hoja F4 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella F4 actualizados a '*Fuse*'.
+F4 pin 2 conectado a Net-(C33-Pad1).
+Añadir red /Front End/L3.
+F4 pin 1 conectado a /Front End/L3.
+Añadir F5 (huella 'Fuse:Fuse_Littelfuse_372_D8.50mm').
+Indicador de referencia cambiado de REF** a F5.
+Valor F5 cambiado de Fuse_Littelfuse_372_D8.50mm a Fuse.
+Asociación de símbolos F5 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/fafe2f4a-6f67-4fbd-a75e-4b129f8c72fe.
+Actualizados F5 campos.
+Nombre de hoja F5 actualizado a 'Front End'.
+Archivo de hoja F5 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella F5 actualizados a '*Fuse*'.
+Añadir red /Front End/N.
+F5 pin 2 conectado a /Front End/N.
+Añadir red Net-(F5-Pad1).
+F5 pin 1 conectado a Net-(F5-Pad1).
+Añadir FB1 (huella 'Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder').
+Indicador de referencia cambiado de REF** a FB1.
+Valor FB1 cambiado de L_0805_2012Metric_Pad1.05x1.20mm_HandSolder a FerriteBead_Small.
+Asociación de símbolos FB1 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/5c512833-48c3-4a48-8214-fcd3e42c0ef4.
+Actualizados FB1 campos.
+Nombre de hoja FB1 actualizado a 'ADC'.
+Archivo de hoja FB1 actualizado a 'ADC.kicad_sch'.
+Filtros de huella FB1 actualizados a 'Inductor_* L_* *Ferrite*'.
+FB1 pin 2 conectado a AVDD.
+FB1 pin 1 conectado a +5VA.
+Añadir FID1 (huella 'Fiducial:Fiducial_0.5mm_Mask1mm').
+Indicador de referencia cambiado de REF** a FID1.
+Valor FID1 cambiado de Fiducial_0.5mm_Mask1mm a Fiducial.
+Asociación de símbolos FID1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/05aa9d39-6ed3-4176-8b58-39c5c81d7be3.
+Actualizados FID1 campos.
+Nombre de hoja FID1 actualizado a 'Power Supply'.
+Archivo de hoja FID1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella FID1 actualizados a 'Fiducial*'.
+Atributo de fabricación 'excluir de la lista de materiales' FID1 añadido.
+Añadir FID2 (huella 'Fiducial:Fiducial_0.5mm_Mask1mm').
+Indicador de referencia cambiado de REF** a FID2.
+Valor FID2 cambiado de Fiducial_0.5mm_Mask1mm a Fiducial.
+Asociación de símbolos FID2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/ba23724c-eb85-422a-93a2-c7694b2cee8e.
+Actualizados FID2 campos.
+Nombre de hoja FID2 actualizado a 'Power Supply'.
+Archivo de hoja FID2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella FID2 actualizados a 'Fiducial*'.
+Atributo de fabricación 'excluir de la lista de materiales' FID2 añadido.
+Añadir FID3 (huella 'Fiducial:Fiducial_0.5mm_Mask1mm').
+Indicador de referencia cambiado de REF** a FID3.
+Valor FID3 cambiado de Fiducial_0.5mm_Mask1mm a Fiducial.
+Asociación de símbolos FID3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/5f9f9aff-42dc-43b6-b387-4649dec49033.
+Actualizados FID3 campos.
+Nombre de hoja FID3 actualizado a 'Power Supply'.
+Archivo de hoja FID3 actualizado a 'PWR.kicad_sch'.
+Filtros de huella FID3 actualizados a 'Fiducial*'.
+Atributo de fabricación 'excluir de la lista de materiales' FID3 añadido.
+Añadir J1 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J1.
+Valor J1 cambiado de PinHeader_1x02_P2.54mm_Vertical a FASTON L.
+Asociación de símbolos J1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/53c62952-a957-4b9d-bcf2-5fb6d0c3b8c9.
+Actualizados J1 campos.
+Nombre de hoja J1 actualizado a 'Power Supply'.
+Archivo de hoja J1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella J1 actualizados a 'Connector*:*_1x??_*'.
+J1 pin 2 conectado a Net-(J1-Pin_1).
+J1 pin 1 conectado a Net-(J1-Pin_1).
+Añadir J2 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J2.
+Valor J2 cambiado de PinHeader_1x02_P2.54mm_Vertical a FASTON N.
+Asociación de símbolos J2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/16896994-fb10-4745-9995-ef6ea29552d9.
+Actualizados J2 campos.
+Nombre de hoja J2 actualizado a 'Power Supply'.
+Archivo de hoja J2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella J2 actualizados a 'Connector*:*_1x??_*'.
+Añadir red Net-(J2-Pin_1).
+J2 pin 2 conectado a Net-(J2-Pin_1).
+J2 pin 1 conectado a Net-(J2-Pin_1).
+Añadir J3 (huella 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal').
+Indicador de referencia cambiado de REF** a J3.
+Valor J3 cambiado de TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal a AC PWR IN.
+Asociación de símbolos J3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/3f40298e-7146-4777-8413-7f8425f27d33.
+Actualizados J3 campos.
+Nombre de hoja J3 actualizado a 'Power Supply'.
+Archivo de hoja J3 actualizado a 'PWR.kicad_sch'.
+Filtros de huella J3 actualizados a 'Connector*:*_1x??_*'.
+J3 pin 1 conectado a Net-(J1-Pin_1).
+J3 pin 3 conectado a Net-(J2-Pin_1).
+Añadir red PE.
+J3 pin 2 conectado a PE.
+Añadir J4 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J4.
+Valor J4 cambiado de PinHeader_1x02_P2.54mm_Vertical a FASTON PE.
+Asociación de símbolos J4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/cb147fde-0c1b-41c3-9b75-87f469a5b58a.
+Actualizados J4 campos.
+Nombre de hoja J4 actualizado a 'Power Supply'.
+Archivo de hoja J4 actualizado a 'PWR.kicad_sch'.
+Filtros de huella J4 actualizados a 'Connector*:*_1x??_*'.
+J4 pin 1 conectado a PE.
+J4 pin 2 conectado a PE.
+Añadir J5 (huella 'Connector_JST:JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical').
+Indicador de referencia cambiado de REF** a J5.
+Valor J5 cambiado de JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical a 5V FAN.
+Asociación de símbolos J5 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/b937358e-66d6-43c0-90c5-a1c0a75fcade.
+Actualizados J5 campos.
+Nombre de hoja J5 actualizado a 'Power Supply'.
+Archivo de hoja J5 actualizado a 'PWR.kicad_sch'.
+Filtros de huella J5 actualizados a 'Connector*:*_1x??_*'.
+Añadir red unconnected-(J5-Pin_2-Pad2).
+J5 pin 2 conectado a unconnected-(J5-Pin_2-Pad2).
+J5 pin 1 conectado a GND.
+Añadir J6 (huella 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a J6.
+Valor J6 cambiado de TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal a AC V MEAS.
+Asociación de símbolos J6 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/a1681c1f-54ed-4b73-b544-99cd6d2c23fe.
+Actualizados J6 campos.
+Nombre de hoja J6 actualizado a 'Front End'.
+Archivo de hoja J6 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella J6 actualizados a 'Connector*:*_1x??_*'.
+J6 pin 4 conectado a /Front End/N.
+J6 pin 3 conectado a /Front End/L3.
+J6 pin 2 conectado a /Front End/L2.
+J6 pin 1 conectado a /Front End/L1.
+Añadir J7 (huella 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal').
+Indicador de referencia cambiado de REF** a J7.
+Valor J7 cambiado de TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal a Curr1 Meas.
+Asociación de símbolos J7 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/979fce02-bf07-46ea-83b1-26c78f487184.
+Actualizados J7 campos.
+Nombre de hoja J7 actualizado a 'Front End'.
+Archivo de hoja J7 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella J7 actualizados a 'Connector*:*_1x??_*'.
+J7 pin 3 conectado a GND3.
+J7 pin 1 conectado a /Front End/Ext5V.
+J7 pin 4 conectado a PE.
+Añadir red /Front End/I1.
+J7 pin 2 conectado a /Front End/I1.
+Añadir J8 (huella 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal').
+Indicador de referencia cambiado de REF** a J8.
+Valor J8 cambiado de TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal a Curr2 Meas.
+Asociación de símbolos J8 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/04ecafbe-0744-4529-a859-73edb897996a.
+Actualizados J8 campos.
+Nombre de hoja J8 actualizado a 'Front End'.
+Archivo de hoja J8 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella J8 actualizados a 'Connector*:*_1x??_*'.
+J8 pin 1 conectado a /Front End/Ext5V.
+Añadir red /Front End/I2.
+J8 pin 2 conectado a /Front End/I2.
+J8 pin 3 conectado a GND3.
+J8 pin 4 conectado a PE.
+Añadir J9 (huella 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal').
+Indicador de referencia cambiado de REF** a J9.
+Valor J9 cambiado de TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal a Curr3 Meas.
+Asociación de símbolos J9 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/b55242aa-d094-4a04-82da-afa1ddb2a254.
+Actualizados J9 campos.
+Nombre de hoja J9 actualizado a 'Front End'.
+Archivo de hoja J9 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella J9 actualizados a 'Connector*:*_1x??_*'.
+Añadir red /Front End/I3.
+J9 pin 2 conectado a /Front End/I3.
+J9 pin 4 conectado a PE.
+J9 pin 3 conectado a GND3.
+J9 pin 1 conectado a /Front End/Ext5V.
+Añadir J10 (huella 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal').
+Indicador de referencia cambiado de REF** a J10.
+Valor J10 cambiado de TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal a Curr4 Meas.
+Asociación de símbolos J10 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/538dce79-0241-45bd-9d7e-9c3d42d4d8dc.
+Actualizados J10 campos.
+Nombre de hoja J10 actualizado a 'Front End'.
+Archivo de hoja J10 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella J10 actualizados a 'Connector*:*_1x??_*'.
+Añadir red /Front End/I4.
+J10 pin 2 conectado a /Front End/I4.
+J10 pin 4 conectado a PE.
+J10 pin 1 conectado a /Front End/Ext5V.
+J10 pin 3 conectado a GND3.
+Añadir J12 (huella 'Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical').
+Indicador de referencia cambiado de REF** a J12.
+Valor J12 cambiado de PinHeader_1x03_P1.27mm_Vertical a Relay OUT.
+Asociación de símbolos J12 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/dcd4254a-623b-4319-bf5f-32735d3a9b05.
+Actualizados J12 campos.
+Nombre de hoja J12 actualizado a 'Front End'.
+Archivo de hoja J12 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella J12 actualizados a 'Connector*:*_1x??_*'.
+Añadir red Net-(J12-Pin_2).
+J12 pin 2 conectado a Net-(J12-Pin_2).
+Añadir red Net-(J12-Pin_3).
+J12 pin 3 conectado a Net-(J12-Pin_3).
+Añadir red Net-(J12-Pin_1).
+J12 pin 1 conectado a Net-(J12-Pin_1).
+Añadir J13 (huella 'Connector_HDMI:HDMI_A_Molex_208658-1001_Horizontal').
+Indicador de referencia cambiado de REF** a J13.
+Valor J13 cambiado de HDMI_A_Molex_208658-1001_Horizontal a HDMI_A_1.4.
+Asociación de símbolos J13 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/f14bcbd4-ac56-4119-a70b-2697252d0754.
+Actualizados J13 campos.
+Nombre de hoja J13 actualizado a 'RPI SoC'.
+Archivo de hoja J13 actualizado a 'MCU.kicad_sch'.
+Filtros de huella J13 actualizados a 'HDMI*A*'.
+Añadir red /RPI SoC/TX2_N.
+J13 pin 3 conectado a /RPI SoC/TX2_N.
+J13 pin 18 conectado a /RPI SoC/HDMI.5V.
+J13 pin 5 conectado a GND.
+J13 pin SH conectado a GND.
+Añadir red /RPI SoC/CLK_P.
+J13 pin 10 conectado a /RPI SoC/CLK_P.
+J13 pin SH conectado a GND.
+J13 pin 17 conectado a GND.
+Añadir red /RPI SoC/SCL.
+J13 pin 15 conectado a /RPI SoC/SCL.
+Añadir red /RPI SoC/TX2_P.
+J13 pin 1 conectado a /RPI SoC/TX2_P.
+J13 pin SH conectado a GND.
+Añadir red /RPI SoC/CEC.
+J13 pin 13 conectado a /RPI SoC/CEC.
+Añadir red /RPI SoC/TX1_P.
+J13 pin 4 conectado a /RPI SoC/TX1_P.
+Añadir red unconnected-(J13-UTILITY/HEAC+-Pad14).
+J13 pin 14 conectado a unconnected-(J13-UTILITY/HEAC+-Pad14).
+J13 pin 8 conectado a GND.
+Añadir red /RPI SoC/HotPlug.
+J13 pin 19 conectado a /RPI SoC/HotPlug.
+Añadir red /RPI SoC/TX1_N.
+J13 pin 6 conectado a /RPI SoC/TX1_N.
+J13 pin 11 conectado a GND.
+Añadir red /RPI SoC/TX0_P.
+J13 pin 7 conectado a /RPI SoC/TX0_P.
+Añadir red /RPI SoC/SDA.
+J13 pin 16 conectado a /RPI SoC/SDA.
+Añadir red /RPI SoC/CLK_N.
+J13 pin 12 conectado a /RPI SoC/CLK_N.
+Añadir red /RPI SoC/TX0_N.
+J13 pin 9 conectado a /RPI SoC/TX0_N.
+J13 pin SH conectado a GND.
+J13 pin 2 conectado a GND.
+Añadir J14 (huella 'Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J14.
+Valor J14 cambiado de PinHeader_2x02_P2.54mm_Vertical a THD-02-R.
+Asociación de símbolos J14 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/3e80758d-7862-4491-b5fb-0e8c3709bf15.
+Actualizados J14 campos.
+Nombre de hoja J14 actualizado a 'RPI SoC'.
+Archivo de hoja J14 actualizado a 'MCU.kicad_sch'.
+Filtros de huella J14 actualizados a 'Connector*:*_2x??_*'.
+Añadir red /RPI SoC/TR2_TAP.
+J14 pin 2 conectado a /RPI SoC/TR2_TAP.
+Añadir red /RPI SoC/TR0_TAP.
+J14 pin 3 conectado a /RPI SoC/TR0_TAP.
+Añadir red /RPI SoC/TR1_TAP.
+J14 pin 1 conectado a /RPI SoC/TR1_TAP.
+Añadir red /RPI SoC/TR3_TAP.
+J14 pin 4 conectado a /RPI SoC/TR3_TAP.
+Añadir JP1 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP1.
+Valor JP1 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/d315c636-7b87-4a0d-9577-7056819a718f.
+Actualizados JP1 campos.
+Nombre de hoja JP1 actualizado a 'Power Supply'.
+Archivo de hoja JP1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella JP1 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP1 eliminado.
+Añadir red Net-(JP1-B).
+JP1 pin 2 conectado a Net-(JP1-B).
+Añadir red Net-(JP1-A).
+JP1 pin 1 conectado a Net-(JP1-A).
+Añadir JP2 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP2.
+Valor JP2 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/437aa988-b0b1-4e7b-beff-667059d80d26.
+Actualizados JP2 campos.
+Nombre de hoja JP2 actualizado a 'Power Supply'.
+Archivo de hoja JP2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella JP2 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP2 eliminado.
+JP2 pin 2 conectado a GND.
+Añadir red GND2.
+JP2 pin 1 conectado a GND2.
+Añadir JP3 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP3.
+Valor JP3 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/8c7e0484-6dcd-43be-a570-104c075cba7a.
+Actualizados JP3 campos.
+Nombre de hoja JP3 actualizado a 'Power Supply'.
+Archivo de hoja JP3 actualizado a 'PWR.kicad_sch'.
+Filtros de huella JP3 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP3 eliminado.
+Añadir red Net-(JP3-B).
+JP3 pin 2 conectado a Net-(JP3-B).
+Añadir red Net-(JP3-A).
+JP3 pin 1 conectado a Net-(JP3-A).
+Añadir JP4 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP4.
+Valor JP4 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/09bc6c66-6937-4997-a2ed-fa4bae0bd217.
+Actualizados JP4 campos.
+Nombre de hoja JP4 actualizado a 'Power Supply'.
+Archivo de hoja JP4 actualizado a 'PWR.kicad_sch'.
+Filtros de huella JP4 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP4 eliminado.
+Añadir red Net-(JP4-A).
+JP4 pin 1 conectado a Net-(JP4-A).
+JP4 pin 2 conectado a GND3.
+Añadir JP5 (huella 'Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP5.
+Valor JP5 cambiado de SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm a SolderJumper_2_Bridged.
+Asociación de símbolos JP5 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/b401dcbf-9af3-4fa4-abbb-d75dce12b2c3.
+Actualizados JP5 campos.
+Nombre de hoja JP5 actualizado a 'ADC'.
+Archivo de hoja JP5 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP5 actualizados a 'SolderJumper*Bridged*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP5 eliminado.
+JP5 pin 2 conectado a VREF.
+Añadir red Net-(JP5-A).
+JP5 pin 1 conectado a Net-(JP5-A).
+Añadir JP6 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP6.
+Valor JP6 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP6 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/2392a37d-8c2f-4471-87b1-6ad4cc4ed02f.
+Actualizados JP6 campos.
+Nombre de hoja JP6 actualizado a 'ADC'.
+Archivo de hoja JP6 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP6 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP6 eliminado.
+JP6 pin 2 conectado a +5VA.
+JP6 pin 1 conectado a VREF.
+Añadir JP7 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP7.
+Valor JP7 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP7 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/1747106f-039e-45d9-b69a-6471aa1c98b3.
+Actualizados JP7 campos.
+Nombre de hoja JP7 actualizado a 'ADC'.
+Archivo de hoja JP7 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP7 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP7 eliminado.
+JP7 pin 1 conectado a +5VA.
+Añadir red Net-(JP13-B).
+JP7 pin 2 conectado a Net-(JP13-B).
+Añadir JP8 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP8.
+Valor JP8 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP8 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/7706af45-b1fc-4d0f-98a3-8662bee2a666.
+Actualizados JP8 campos.
+Nombre de hoja JP8 actualizado a 'ADC'.
+Archivo de hoja JP8 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP8 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP8 eliminado.
+Añadir red Net-(JP11-B).
+JP8 pin 2 conectado a Net-(JP11-B).
+JP8 pin 1 conectado a +5VA.
+Añadir JP9 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP9.
+Valor JP9 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP9 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/8d863d27-c768-493a-ae80-c0c14f250792.
+Actualizados JP9 campos.
+Nombre de hoja JP9 actualizado a 'ADC'.
+Archivo de hoja JP9 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP9 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP9 eliminado.
+Añadir red Net-(JP14-B).
+JP9 pin 2 conectado a Net-(JP14-B).
+JP9 pin 1 conectado a +5VA.
+Añadir JP10 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP10.
+Valor JP10 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP10 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/97f5c184-76e1-46ce-9893-c43ceb400983.
+Actualizados JP10 campos.
+Nombre de hoja JP10 actualizado a 'ADC'.
+Archivo de hoja JP10 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP10 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP10 eliminado.
+JP10 pin 1 conectado a +5VA.
+Añadir red Net-(JP10-B).
+JP10 pin 2 conectado a Net-(JP10-B).
+Añadir JP11 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP11.
+Valor JP11 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP11 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/f8a71409-bd47-41e8-b8ad-76db079bc838.
+Actualizados JP11 campos.
+Nombre de hoja JP11 actualizado a 'ADC'.
+Archivo de hoja JP11 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP11 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP11 eliminado.
+JP11 pin 2 conectado a Net-(JP11-B).
+JP11 pin 1 conectado a GND3.
+Añadir JP12 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP12.
+Valor JP12 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP12 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/46697eaf-5249-4a3b-a264-cb17425f9652.
+Actualizados JP12 campos.
+Nombre de hoja JP12 actualizado a 'ADC'.
+Archivo de hoja JP12 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP12 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP12 eliminado.
+JP12 pin 1 conectado a GND3.
+JP12 pin 2 conectado a Net-(JP10-B).
+Añadir JP13 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP13.
+Valor JP13 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP13 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/7768526a-150a-4029-89c1-6186666486ae.
+Actualizados JP13 campos.
+Nombre de hoja JP13 actualizado a 'ADC'.
+Archivo de hoja JP13 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP13 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP13 eliminado.
+JP13 pin 2 conectado a Net-(JP13-B).
+JP13 pin 1 conectado a GND3.
+Añadir JP14 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Indicador de referencia cambiado de REF** a JP14.
+Valor JP14 cambiado de SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm a SolderJumper_2_Open.
+Asociación de símbolos JP14 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/4c2fa862-ea1c-4924-b7f6-c161b8a3e589.
+Actualizados JP14 campos.
+Nombre de hoja JP14 actualizado a 'ADC'.
+Archivo de hoja JP14 actualizado a 'ADC.kicad_sch'.
+Filtros de huella JP14 actualizados a 'SolderJumper*Open*'.
+Atributo de fabricación 'excluir de la lista de materiales' JP14 eliminado.
+JP14 pin 1 conectado a GND3.
+JP14 pin 2 conectado a Net-(JP14-B).
+Añadir K1 (huella 'Relay_THT:Relay_SPDT_Finder_32.21-x000').
+Indicador de referencia cambiado de REF** a K1.
+Valor K1 cambiado de Relay_SPDT_Finder_32.21-x000 a Relay_SPDT.
+Asociación de símbolos K1 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/cd8a97f1-0d49-4ecc-add7-22a377a3f3eb.
+Actualizados K1 campos.
+Nombre de hoja K1 actualizado a 'Front End'.
+Archivo de hoja K1 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella K1 actualizados a 'Relay?SPDT*'.
+K1 pin 12 conectado a Net-(J12-Pin_3).
+K1 pin 14 conectado a Net-(J12-Pin_1).
+K1 pin 11 conectado a Net-(J12-Pin_2).
+K1 pin A2 conectado a Net-(D9-A).
+K1 pin A1 conectado a +5V.
+Añadir L1 (huella 'Inductor_SMD:L_Bourns_SRN6045TA').
+Indicador de referencia cambiado de REF** a L1.
+Valor L1 cambiado de L_Bourns_SRN6045TA a L.
+Asociación de símbolos L1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/87ddb29d-c810-4a45-bc35-5f82c3a1bf1a.
+Actualizados L1 campos.
+Nombre de hoja L1 actualizado a 'Power Supply'.
+Archivo de hoja L1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella L1 actualizados a 'Choke_* *Coil* Inductor_* L_*'.
+L1 pin 2 conectado a +5VA.
+L1 pin 1 conectado a Net-(D2-A).
+Añadir L2 (huella 'Inductor_SMD:L_Bourns_SRN6045TA').
+Indicador de referencia cambiado de REF** a L2.
+Valor L2 cambiado de L_Bourns_SRN6045TA a L.
+Asociación de símbolos L2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/9f200a0b-c38e-43de-a834-7572f21cc887.
+Actualizados L2 campos.
+Nombre de hoja L2 actualizado a 'Power Supply'.
+Archivo de hoja L2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella L2 actualizados a 'Choke_* *Coil* Inductor_* L_*'.
+L2 pin 1 conectado a Net-(D1-A).
+L2 pin 2 conectado a +5V.
+Añadir Q1 (huella 'Package_TO_SOT_SMD:SOT-23').
+Indicador de referencia cambiado de REF** a Q1.
+Valor Q1 cambiado de SOT-23 a BC847.
+Asociación de símbolos Q1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/a71f9f08-3c91-4bd3-96a3-e2e4d2e92483.
+Actualizados Q1 campos.
+Nombre de hoja Q1 actualizado a 'Power Supply'.
+Archivo de hoja Q1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella Q1 actualizados a 'SOT?23*'.
+Q1 pin 2 conectado a GND3.
+Añadir red Net-(Q1-B).
+Q1 pin 1 conectado a Net-(Q1-B).
+Añadir red Net-(Q1-C).
+Q1 pin 3 conectado a Net-(Q1-C).
+Añadir Q2 (huella 'Package_TO_SOT_SMD:SOT-23').
+Indicador de referencia cambiado de REF** a Q2.
+Valor Q2 cambiado de SOT-23 a BC847.
+Asociación de símbolos Q2 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/9cc27c94-4f69-40ed-a4c9-ee2d0ea7f2d4.
+Actualizados Q2 campos.
+Nombre de hoja Q2 actualizado a 'Front End'.
+Archivo de hoja Q2 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella Q2 actualizados a 'SOT?23*'.
+Añadir red Net-(Q2-B).
+Q2 pin 1 conectado a Net-(Q2-B).
+Q2 pin 3 conectado a Net-(D9-A).
+Q2 pin 2 conectado a GND.
+Añadir R1 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 0R.
+Asociación de símbolos R1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/23d3ca7e-0bfa-4d05-a31d-31a466294341.
+Actualizados R1 campos.
+Nombre de hoja R1 actualizado a 'Power Supply'.
+Archivo de hoja R1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R1 actualizados a 'R_*'.
+R1 pin 1 conectado a Net-(JP1-B).
+R1 pin 2 conectado a Net-(D1-A).
+Añadir R2 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K.
+Asociación de símbolos R2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/b39d7b9f-6df9-4bfc-9bdd-f7810fae07e9.
+Actualizados R2 campos.
+Nombre de hoja R2 actualizado a 'Power Supply'.
+Archivo de hoja R2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R2 actualizados a 'R_*'.
+R2 pin 2 conectado a GND.
+R2 pin 1 conectado a Net-(D1-K).
+Añadir R3 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 0R.
+Asociación de símbolos R3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/83f73382-f16f-43a9-a073-f395240d056e.
+Actualizados R3 campos.
+Nombre de hoja R3 actualizado a 'Power Supply'.
+Archivo de hoja R3 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R3 actualizados a 'R_*'.
+R3 pin 1 conectado a Net-(JP3-B).
+R3 pin 2 conectado a Net-(D2-A).
+Añadir R4 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K.
+Asociación de símbolos R4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/d520c6d3-00a1-41dc-a2ac-3eee578bb1c5.
+Actualizados R4 campos.
+Nombre de hoja R4 actualizado a 'Power Supply'.
+Archivo de hoja R4 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R4 actualizados a 'R_*'.
+R4 pin 1 conectado a Net-(D2-K).
+R4 pin 2 conectado a GND3.
+Añadir R5 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 2K49.
+Asociación de símbolos R5 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/c4e4f6ad-c878-484b-b2ec-81f8bc256f46.
+Actualizados R5 campos.
+Nombre de hoja R5 actualizado a 'Power Supply'.
+Archivo de hoja R5 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R5 actualizados a 'R_*'.
+Añadir red Net-(U3-FB).
+R5 pin 1 conectado a Net-(U3-FB).
+R5 pin 2 conectado a +1V2.
+Añadir R6 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R6.
+Valor R6 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 4K99.
+Asociación de símbolos R6 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/18c3963e-d42d-4415-806d-1fe3720ca67d.
+Actualizados R6 campos.
+Nombre de hoja R6 actualizado a 'Power Supply'.
+Archivo de hoja R6 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R6 actualizados a 'R_*'.
+R6 pin 1 conectado a GND3.
+R6 pin 2 conectado a Net-(U3-FB).
+Añadir R7 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R7.
+Valor R7 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 3K57.
+Asociación de símbolos R7 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/a071f2e1-6a94-4511-8a5d-0f9b49d94c56.
+Actualizados R7 campos.
+Nombre de hoja R7 actualizado a 'Power Supply'.
+Archivo de hoja R7 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R7 actualizados a 'R_*'.
+R7 pin 2 conectado a +2V5.
+Añadir red Net-(U4-FB).
+R7 pin 1 conectado a Net-(U4-FB).
+Añadir R8 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R8.
+Valor R8 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K69.
+Asociación de símbolos R8 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/f8036d3d-112c-44d2-870a-ed59799beb74.
+Actualizados R8 campos.
+Nombre de hoja R8 actualizado a 'Power Supply'.
+Archivo de hoja R8 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R8 actualizados a 'R_*'.
+R8 pin 1 conectado a GND3.
+R8 pin 2 conectado a Net-(U4-FB).
+Añadir R9 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R9.
+Valor R9 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 3K57.
+Asociación de símbolos R9 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/37eab2c3-2e83-4bc9-a2f9-b9cd4f919536.
+Actualizados R9 campos.
+Nombre de hoja R9 actualizado a 'Power Supply'.
+Archivo de hoja R9 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R9 actualizados a 'R_*'.
+Añadir red Net-(U5-FB).
+R9 pin 1 conectado a Net-(U5-FB).
+R9 pin 2 conectado a +3V3.
+Añadir R10 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R10.
+Valor R10 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K15.
+Asociación de símbolos R10 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/64c9723e-d5f2-4283-b166-fc925c3940b3.
+Actualizados R10 campos.
+Nombre de hoja R10 actualizado a 'Power Supply'.
+Archivo de hoja R10 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R10 actualizados a 'R_*'.
+R10 pin 1 conectado a GND3.
+R10 pin 2 conectado a Net-(U5-FB).
+Añadir R11 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R11.
+Valor R11 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 10K.
+Asociación de símbolos R11 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/5d7f88d5-a405-42af-a6ac-ca22b58528bd.
+Actualizados R11 campos.
+Nombre de hoja R11 actualizado a 'Power Supply'.
+Archivo de hoja R11 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R11 actualizados a 'R_*'.
+Añadir red Net-(U5-EN).
+R11 pin 1 conectado a Net-(U5-EN).
+R11 pin 2 conectado a +5VA.
+Añadir R12 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R12.
+Valor R12 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 100K.
+Asociación de símbolos R12 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/fde551d6-5ae0-4d37-8637-7be4f1e36dbc.
+Actualizados R12 campos.
+Nombre de hoja R12 actualizado a 'Power Supply'.
+Archivo de hoja R12 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R12 actualizados a 'R_*'.
+R12 pin 2 conectado a +3V3.
+Añadir red /Power Supply/PWR_EN.
+R12 pin 1 conectado a /Power Supply/PWR_EN.
+Añadir R13 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R13.
+Valor R13 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K.
+Asociación de símbolos R13 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/a2889d4c-f76a-4e5b-bd1f-cb8e1f8bc1f3.
+Actualizados R13 campos.
+Nombre de hoja R13 actualizado a 'Power Supply'.
+Archivo de hoja R13 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R13 actualizados a 'R_*'.
+R13 pin 1 conectado a Net-(D4-K).
+R13 pin 2 conectado a Net-(Q1-C).
+Añadir R14 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R14.
+Valor R14 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 10K.
+Asociación de símbolos R14 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/be6b8e85-7083-439e-ba38-8ce2a59d6cdb.
+Actualizados R14 campos.
+Nombre de hoja R14 actualizado a 'Power Supply'.
+Archivo de hoja R14 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R14 actualizados a 'R_*'.
+R14 pin 2 conectado a GND3.
+R14 pin 1 conectado a Net-(Q1-B).
+Añadir R15 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R15.
+Valor R15 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 10K.
+Asociación de símbolos R15 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/68c28b1f-75a0-4fa7-b343-7eb9fb1dbe6a.
+Actualizados R15 campos.
+Nombre de hoja R15 actualizado a 'Power Supply'.
+Archivo de hoja R15 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R15 actualizados a 'R_*'.
+R15 pin 1 conectado a Net-(Q1-B).
+Añadir red /Power Supply/PG.
+R15 pin 2 conectado a /Power Supply/PG.
+Añadir R16 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R16.
+Valor R16 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 10K.
+Asociación de símbolos R16 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/0a3c324f-0b8a-446f-a392-78a29d824ac9.
+Actualizados R16 campos.
+Nombre de hoja R16 actualizado a 'Power Supply'.
+Archivo de hoja R16 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R16 actualizados a 'R_*'.
+R16 pin 2 conectado a /Power Supply/PG.
+R16 pin 1 conectado a +3V3.
+Añadir R17 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R17.
+Valor R17 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a R.
+Asociación de símbolos R17 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/76716222-0fb9-49e5-93e0-f5e5c8223a3d.
+Actualizados R17 campos.
+Nombre de hoja R17 actualizado a 'Front End'.
+Archivo de hoja R17 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R17 actualizados a 'R_*'.
+Añadir red Net-(R17-Pad2).
+R17 pin 2 conectado a Net-(R17-Pad2).
+R17 pin 1 conectado a Net-(C29-Pad1).
+Añadir R18 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R18.
+Valor R18 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R18 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/abd7468d-7e66-4d79-9e5c-7b50d100c941.
+Actualizados R18 campos.
+Nombre de hoja R18 actualizado a 'Front End'.
+Archivo de hoja R18 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R18 actualizados a 'R_*'.
+R18 pin 2 conectado a Net-(C29-Pad2).
+R18 pin 1 conectado a Net-(R17-Pad2).
+Añadir R19 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R19.
+Valor R19 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R19 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/0a1e2a29-531d-402c-9d4d-fb3e5190d8a9.
+Actualizados R19 campos.
+Nombre de hoja R19 actualizado a 'Front End'.
+Archivo de hoja R19 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R19 actualizados a 'R_*'.
+R19 pin 1 conectado a Net-(C29-Pad2).
+Añadir red Net-(R19-Pad2).
+R19 pin 2 conectado a Net-(R19-Pad2).
+Añadir R20 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R20.
+Valor R20 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R20 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/34d8869d-36c2-473d-b96d-a7c039de5b1a.
+Actualizados R20 campos.
+Nombre de hoja R20 actualizado a 'Front End'.
+Archivo de hoja R20 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R20 actualizados a 'R_*'.
+R20 pin 2 conectado a /Front End/L1_LV.
+R20 pin 1 conectado a Net-(R19-Pad2).
+Añadir R21 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R21.
+Valor R21 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R21 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/e54919ff-f4d4-4874-86cd-608fa2b63d13.
+Actualizados R21 campos.
+Nombre de hoja R21 actualizado a 'Front End'.
+Archivo de hoja R21 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R21 actualizados a 'R_*'.
+R21 pin 2 conectado a Net-(R17-Pad2).
+R21 pin 1 conectado a Net-(C29-Pad1).
+Añadir R22 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R22.
+Valor R22 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R22 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/959e2c16-1c11-42db-81eb-08088eab917e.
+Actualizados R22 campos.
+Nombre de hoja R22 actualizado a 'Front End'.
+Archivo de hoja R22 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R22 actualizados a 'R_*'.
+R22 pin 2 conectado a Net-(C29-Pad2).
+R22 pin 1 conectado a Net-(R17-Pad2).
+Añadir R23 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R23.
+Valor R23 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R23 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/82cc72d3-db4e-4325-a52d-886367566e2c.
+Actualizados R23 campos.
+Nombre de hoja R23 actualizado a 'Front End'.
+Archivo de hoja R23 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R23 actualizados a 'R_*'.
+R23 pin 2 conectado a Net-(R19-Pad2).
+R23 pin 1 conectado a Net-(C29-Pad2).
+Añadir R24 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R24.
+Valor R24 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R24 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/3e095793-f9c1-4396-a9b6-b9625bc3925f.
+Actualizados R24 campos.
+Nombre de hoja R24 actualizado a 'Front End'.
+Archivo de hoja R24 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R24 actualizados a 'R_*'.
+R24 pin 2 conectado a /Front End/L1_LV.
+R24 pin 1 conectado a Net-(R19-Pad2).
+Añadir R25 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R25.
+Valor R25 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R25 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/59a2b0c8-7ce4-4123-a529-db86cb18dccb.
+Actualizados R25 campos.
+Nombre de hoja R25 actualizado a 'Front End'.
+Archivo de hoja R25 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R25 actualizados a 'R_*'.
+R25 pin 1 conectado a /Front End/L1_LV.
+Añadir red Net-(R25-Pad2).
+R25 pin 2 conectado a Net-(R25-Pad2).
+Añadir R26 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R26.
+Valor R26 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R26 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/265e674d-9bdf-46fe-a8d5-790cd86c153e.
+Actualizados R26 campos.
+Nombre de hoja R26 actualizado a 'Front End'.
+Archivo de hoja R26 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R26 actualizados a 'R_*'.
+R26 pin 2 conectado a GNDS.
+R26 pin 1 conectado a Net-(R25-Pad2).
+Añadir R27 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R27.
+Valor R27 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R27 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/5fd425ed-d5cc-4b81-bafc-258aa873386c.
+Actualizados R27 campos.
+Nombre de hoja R27 actualizado a 'Front End'.
+Archivo de hoja R27 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R27 actualizados a 'R_*'.
+R27 pin 1 conectado a Net-(C31-Pad1).
+Añadir red Net-(R27-Pad2).
+R27 pin 2 conectado a Net-(R27-Pad2).
+Añadir R28 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R28.
+Valor R28 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R28 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/e70acfc5-e46e-4aa4-b022-2b2b12583dae.
+Actualizados R28 campos.
+Nombre de hoja R28 actualizado a 'Front End'.
+Archivo de hoja R28 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R28 actualizados a 'R_*'.
+R28 pin 1 conectado a Net-(C31-Pad1).
+R28 pin 2 conectado a Net-(R27-Pad2).
+Añadir R29 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R29.
+Valor R29 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R29 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/85cdd0fd-81c8-4375-892d-86f540784660.
+Actualizados R29 campos.
+Nombre de hoja R29 actualizado a 'Front End'.
+Archivo de hoja R29 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R29 actualizados a 'R_*'.
+R29 pin 2 conectado a Net-(C31-Pad2).
+R29 pin 1 conectado a Net-(R27-Pad2).
+Añadir R30 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R30.
+Valor R30 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R30 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/395432ad-a38f-49be-9e81-e6c774b67f49.
+Actualizados R30 campos.
+Nombre de hoja R30 actualizado a 'Front End'.
+Archivo de hoja R30 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R30 actualizados a 'R_*'.
+R30 pin 2 conectado a Net-(C31-Pad2).
+R30 pin 1 conectado a Net-(R27-Pad2).
+Añadir R31 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R31.
+Valor R31 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R31 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/6b750a5a-d287-404a-b0cd-ba4624066dc6.
+Actualizados R31 campos.
+Nombre de hoja R31 actualizado a 'Front End'.
+Archivo de hoja R31 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R31 actualizados a 'R_*'.
+Añadir red Net-(R31-Pad2).
+R31 pin 2 conectado a Net-(R31-Pad2).
+R31 pin 1 conectado a Net-(C31-Pad2).
+Añadir R32 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R32.
+Valor R32 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R32 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/ac07b5ba-6163-4d91-828c-a41f7102188c.
+Actualizados R32 campos.
+Nombre de hoja R32 actualizado a 'Front End'.
+Archivo de hoja R32 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R32 actualizados a 'R_*'.
+R32 pin 2 conectado a Net-(R31-Pad2).
+R32 pin 1 conectado a Net-(C31-Pad2).
+Añadir R33 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R33.
+Valor R33 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R33 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/0d1d80ae-7524-4973-b8af-b765b10662db.
+Actualizados R33 campos.
+Nombre de hoja R33 actualizado a 'Front End'.
+Archivo de hoja R33 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R33 actualizados a 'R_*'.
+R33 pin 1 conectado a Net-(R31-Pad2).
+R33 pin 2 conectado a /Front End/L2_LV.
+Añadir R34 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R34.
+Valor R34 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R34 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/3895409b-0ccf-42a1-b043-1e8b37f169db.
+Actualizados R34 campos.
+Nombre de hoja R34 actualizado a 'Front End'.
+Archivo de hoja R34 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R34 actualizados a 'R_*'.
+R34 pin 1 conectado a Net-(R31-Pad2).
+R34 pin 2 conectado a /Front End/L2_LV.
+Añadir R35 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R35.
+Valor R35 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R35 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/3c95267f-7779-4504-92d8-3f4ce252c1cf.
+Actualizados R35 campos.
+Nombre de hoja R35 actualizado a 'Front End'.
+Archivo de hoja R35 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R35 actualizados a 'R_*'.
+R35 pin 1 conectado a /Front End/L2_LV.
+Añadir red Net-(R35-Pad2).
+R35 pin 2 conectado a Net-(R35-Pad2).
+Añadir R36 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R36.
+Valor R36 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R36 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/d5e6be84-99d3-44ba-8bf1-0cf8329e153c.
+Actualizados R36 campos.
+Nombre de hoja R36 actualizado a 'Front End'.
+Archivo de hoja R36 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R36 actualizados a 'R_*'.
+R36 pin 2 conectado a GNDS.
+R36 pin 1 conectado a Net-(R35-Pad2).
+Añadir C1 (huella 'Capacitor_SMD:CP_Elec_8x6.9').
+Añadir R37 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R37.
+Valor R37 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R37 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/01d90b45-c504-4f02-8f92-d7d49b855d77.
+Actualizados R37 campos.
+Nombre de hoja R37 actualizado a 'Front End'.
+Archivo de hoja R37 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R37 actualizados a 'R_*'.
+Añadir red Net-(R37-Pad2).
+R37 pin 2 conectado a Net-(R37-Pad2).
+R37 pin 1 conectado a Net-(C33-Pad1).
+Indicador de referencia cambiado de REF** a C1.
+Añadir R38 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R38.
+Valor R38 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R38 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/060691d5-c512-49c3-8aa8-55ca4dde8462.
+Actualizados R38 campos.
+Nombre de hoja R38 actualizado a 'Front End'.
+Archivo de hoja R38 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R38 actualizados a 'R_*'.
+R38 pin 1 conectado a Net-(C33-Pad1).
+R38 pin 2 conectado a Net-(R37-Pad2).
+Valor C1 cambiado de CP_Elec_8x6.9 a 220uF.
+Añadir R39 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R39.
+Valor R39 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1R.
+Asociación de símbolos R39 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/7375d7cf-3fb5-43b2-823e-7707ea9b7b61.
+Actualizados R39 campos.
+Nombre de hoja R39 actualizado a 'Front End'.
+Archivo de hoja R39 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R39 actualizados a 'R_*'.
+R39 pin 1 conectado a /Front End/Ext5V.
+R39 pin 2 conectado a +5VA.
+Asociación de símbolos C1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/b128cfdb-8944-45ee-98b4-9c803a469b4d.
+Añadir R40 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R40.
+Valor R40 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K.
+Asociación de símbolos R40 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/e17efaed-37bf-4ece-8f9c-969a1de83287.
+Actualizados R40 campos.
+Nombre de hoja R40 actualizado a 'Front End'.
+Archivo de hoja R40 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R40 actualizados a 'R_*'.
+R40 pin 2 conectado a Net-(D5-K).
+R40 pin 1 conectado a GND3.
+Actualizados C1 campos.
+Añadir R41 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R41.
+Valor R41 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R41 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/dd4e886c-f2a9-437f-bdd2-ebb78c22a31a.
+Actualizados R41 campos.
+Nombre de hoja R41 actualizado a 'Front End'.
+Archivo de hoja R41 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R41 actualizados a 'R_*'.
+R41 pin 1 conectado a Net-(R37-Pad2).
+R41 pin 2 conectado a Net-(C33-Pad2).
+Nombre de hoja C1 actualizado a 'Power Supply'.
+Añadir R42 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R42.
+Valor R42 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R42 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/8fbfdc27-a530-4af0-bf18-93c656affa18.
+Actualizados R42 campos.
+Nombre de hoja R42 actualizado a 'Front End'.
+Archivo de hoja R42 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R42 actualizados a 'R_*'.
+R42 pin 2 conectado a Net-(C33-Pad2).
+R42 pin 1 conectado a Net-(R37-Pad2).
+Archivo de hoja C1 actualizado a 'PWR.kicad_sch'.
+Añadir R43 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R43.
+Valor R43 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a DNI.
+Asociación de símbolos R43 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/2b55e012-6439-467c-b79c-c11204d4c7ad.
+Actualizados R43 campos.
+Nombre de hoja R43 actualizado a 'ADC'.
+Archivo de hoja R43 actualizado a 'ADC.kicad_sch'.
+Filtros de huella R43 actualizados a 'R_*'.
+Añadir red Net-(U10-~{RESET}).
+R43 pin 2 conectado a Net-(U10-~{RESET}).
+R43 pin 1 conectado a GND3.
+Filtros de huella C1 actualizados a 'CP_*'.
+Añadir R44 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R44.
+Valor R44 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 0R.
+Asociación de símbolos R44 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/66dde691-d0b9-4b0c-8baf-0bfc147ef9ad.
+Actualizados R44 campos.
+Nombre de hoja R44 actualizado a 'ADC'.
+Archivo de hoja R44 actualizado a 'ADC.kicad_sch'.
+Filtros de huella R44 actualizados a 'R_*'.
+Añadir red Net-(X1-~{ST}).
+R44 pin 2 conectado a Net-(X1-~{ST}).
+R44 pin 1 conectado a +5VA.
+Añadir red GND.
+Añadir R45 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R45.
+Valor R45 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R45 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/3431efaa-54b6-4259-a87a-88e6f3435a51.
+Actualizados R45 campos.
+Nombre de hoja R45 actualizado a 'Front End'.
+Archivo de hoja R45 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R45 actualizados a 'R_*'.
+R45 pin 1 conectado a Net-(C33-Pad2).
+Añadir red Net-(R45-Pad2).
+R45 pin 2 conectado a Net-(R45-Pad2).
+C1 pin 2 conectado a GND.
+Añadir R46 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R46.
+Valor R46 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R46 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/3ec7badc-0b0d-476d-bdc1-6838c559332b.
+Actualizados R46 campos.
+Nombre de hoja R46 actualizado a 'Front End'.
+Archivo de hoja R46 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R46 actualizados a 'R_*'.
+R46 pin 1 conectado a Net-(C33-Pad2).
+R46 pin 2 conectado a Net-(R45-Pad2).
+Añadir red Net-(D1-A).
+Añadir R47 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R47.
+Valor R47 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R47 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/0e2aa278-0452-4247-8366-16e70176e613.
+Actualizados R47 campos.
+Nombre de hoja R47 actualizado a 'Front End'.
+Archivo de hoja R47 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R47 actualizados a 'R_*'.
+R47 pin 1 conectado a Net-(R45-Pad2).
+R47 pin 2 conectado a /Front End/L3_LV.
+C1 pin 1 conectado a Net-(D1-A).
+Añadir R48 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R48.
+Valor R48 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R48 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/4e0dd114-8594-4ad7-b247-7cc3e21ab13e.
+Actualizados R48 campos.
+Nombre de hoja R48 actualizado a 'Front End'.
+Archivo de hoja R48 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R48 actualizados a 'R_*'.
+R48 pin 1 conectado a Net-(F5-Pad1).
+Añadir red Net-(R48-Pad2).
+R48 pin 2 conectado a Net-(R48-Pad2).
+Añadir C2 (huella 'Capacitor_SMD:CP_Elec_8x6.9').
+Añadir R49 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R49.
+Valor R49 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R49 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/26bff537-db4b-4811-91c4-accfb96bc02d.
+Actualizados R49 campos.
+Nombre de hoja R49 actualizado a 'Front End'.
+Archivo de hoja R49 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R49 actualizados a 'R_*'.
+R49 pin 2 conectado a /Front End/L3_LV.
+R49 pin 1 conectado a Net-(R45-Pad2).
+Indicador de referencia cambiado de REF** a C2.
+Añadir R50 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R50.
+Valor R50 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R50 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/77a190df-4bd0-4460-bf2b-c55f8b474535.
+Actualizados R50 campos.
+Nombre de hoja R50 actualizado a 'Front End'.
+Archivo de hoja R50 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R50 actualizados a 'R_*'.
+Añadir red Net-(R50-Pad2).
+R50 pin 2 conectado a Net-(R50-Pad2).
+R50 pin 1 conectado a /Front End/L3_LV.
+Valor C2 cambiado de CP_Elec_8x6.9 a 220uF.
+Añadir R51 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R51.
+Valor R51 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R51 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/01a48e1a-0172-4ad2-be79-45d8e7f17481.
+Actualizados R51 campos.
+Nombre de hoja R51 actualizado a 'Front End'.
+Archivo de hoja R51 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R51 actualizados a 'R_*'.
+R51 pin 1 conectado a Net-(R50-Pad2).
+R51 pin 2 conectado a GNDS.
+Asociación de símbolos C2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/ceb397c2-f583-4ea8-a6a6-3bd8c95b7ad3.
+Añadir R52 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R52.
+Valor R52 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R52 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/344e6a96-2796-4a99-b52f-2b3aef241029.
+Actualizados R52 campos.
+Nombre de hoja R52 actualizado a 'Front End'.
+Archivo de hoja R52 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R52 actualizados a 'R_*'.
+Añadir red /Front End/N_LV.
+R52 pin 2 conectado a /Front End/N_LV.
+R52 pin 1 conectado a Net-(R48-Pad2).
+Actualizados C2 campos.
+Añadir R53 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R53.
+Valor R53 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 50R.
+Asociación de símbolos R53 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/b3ca1f71-86cc-456d-a453-25cf42179405.
+Actualizados R53 campos.
+Nombre de hoja R53 actualizado a 'Front End'.
+Archivo de hoja R53 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R53 actualizados a 'R_*'.
+Añadir red L1_sense.
+R53 pin 2 conectado a L1_sense.
+Añadir red Net-(R53-Pad1).
+R53 pin 1 conectado a Net-(R53-Pad1).
+Nombre de hoja C2 actualizado a 'Power Supply'.
+Añadir R54 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R54.
+Valor R54 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R54 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/aa0f69f3-7c61-4be7-8f85-172de689836a.
+Actualizados R54 campos.
+Nombre de hoja R54 actualizado a 'Front End'.
+Archivo de hoja R54 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R54 actualizados a 'R_*'.
+Añadir red Net-(R54-Pad2).
+R54 pin 2 conectado a Net-(R54-Pad2).
+R54 pin 1 conectado a /Front End/N_LV.
+Archivo de hoja C2 actualizado a 'PWR.kicad_sch'.
+Añadir R55 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R55.
+Valor R55 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 50R.
+Asociación de símbolos R55 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/402ad53d-fcab-42ad-b865-8b3aecfce6a0.
+Actualizados R55 campos.
+Nombre de hoja R55 actualizado a 'Front End'.
+Archivo de hoja R55 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R55 actualizados a 'R_*'.
+Añadir red L2_sense.
+R55 pin 2 conectado a L2_sense.
+Añadir red Net-(R55-Pad1).
+R55 pin 1 conectado a Net-(R55-Pad1).
+Filtros de huella C2 actualizados a 'CP_*'.
+Añadir R56 (huella 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Indicador de referencia cambiado de REF** a R56.
+Valor R56 cambiado de R_1206_3216Metric_Pad1.30x1.75mm_HandSolder a R.
+Asociación de símbolos R56 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/a5a37f68-c714-487c-b598-364ae90efbf5.
+Actualizados R56 campos.
+Nombre de hoja R56 actualizado a 'Front End'.
+Archivo de hoja R56 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R56 actualizados a 'R_*'.
+R56 pin 1 conectado a Net-(R54-Pad2).
+R56 pin 2 conectado a GNDS.
+Añadir red +5V.
+Añadir R57 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R57.
+Valor R57 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 50R.
+Asociación de símbolos R57 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/7408b820-3995-4b4f-8ccf-60309dcb7520.
+Actualizados R57 campos.
+Nombre de hoja R57 actualizado a 'Front End'.
+Archivo de hoja R57 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R57 actualizados a 'R_*'.
+Añadir red Net-(R57-Pad1).
+R57 pin 1 conectado a Net-(R57-Pad1).
+Añadir red L3_sense.
+R57 pin 2 conectado a L3_sense.
+C2 pin 1 conectado a +5V.
+Añadir R58 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R58.
+Valor R58 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 50R.
+Asociación de símbolos R58 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/176bdf55-25ec-4397-bd77-81e40a199836.
+Actualizados R58 campos.
+Nombre de hoja R58 actualizado a 'Front End'.
+Archivo de hoja R58 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R58 actualizados a 'R_*'.
+Añadir red Net-(R58-Pad1).
+R58 pin 1 conectado a Net-(R58-Pad1).
+Añadir red N_sense.
+R58 pin 2 conectado a N_sense.
+C2 pin 2 conectado a GND.
+Añadir R59 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R59.
+Valor R59 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 100R.
+Asociación de símbolos R59 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/bb4f7ddb-9b3e-4627-bc28-9e61d6e85428.
+Actualizados R59 campos.
+Nombre de hoja R59 actualizado a 'Power Supply'.
+Archivo de hoja R59 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R59 actualizados a 'R_*'.
+R59 pin 1 conectado a +5VA.
+R59 pin 2 conectado a GNDS.
+Añadir C3 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir R60 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R60.
+Valor R60 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 0R.
+Asociación de símbolos R60 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/0095dddd-b46e-4957-83ae-96bbe6997f05.
+Actualizados R60 campos.
+Nombre de hoja R60 actualizado a 'Power Supply'.
+Archivo de hoja R60 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R60 actualizados a 'R_*'.
+R60 pin 1 conectado a GNDS.
+Añadir red Net-(U13-REF).
+R60 pin 2 conectado a Net-(U13-REF).
+Indicador de referencia cambiado de REF** a C3.
+Añadir R61 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R61.
+Valor R61 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 300R.
+Asociación de símbolos R61 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/5506265d-66a6-4dfe-8e27-62f638ecba6d.
+Actualizados R61 campos.
+Nombre de hoja R61 actualizado a 'Power Supply'.
+Archivo de hoja R61 actualizado a 'PWR.kicad_sch'.
+Filtros de huella R61 actualizados a 'R_*'.
+R61 pin 1 conectado a Net-(U13-REF).
+R61 pin 2 conectado a GND3.
+Valor C3 cambiado de C_1206_3216Metric a 100nF.
+Añadir R62 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R62.
+Valor R62 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 15R.
+Asociación de símbolos R62 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/e68c3f96-8b57-4116-b23e-ca9ef4c8b351.
+Actualizados R62 campos.
+Nombre de hoja R62 actualizado a 'ADC'.
+Archivo de hoja R62 actualizado a 'ADC.kicad_sch'.
+Filtros de huella R62 actualizados a 'R_*'.
+R62 pin 2 conectado a Net-(JP5-A).
+R62 pin 1 conectado a +5VA.
+Asociación de símbolos C3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/b044eedd-7b06-4a89-8af9-2e842cdaeb2a.
+Añadir R63 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R63.
+Valor R63 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 190R.
+Asociación de símbolos R63 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/6025e3e6-afcc-440e-9cbb-99beb71d8310.
+Actualizados R63 campos.
+Nombre de hoja R63 actualizado a 'ADC'.
+Archivo de hoja R63 actualizado a 'ADC.kicad_sch'.
+Filtros de huella R63 actualizados a 'R_*'.
+Añadir red Net-(U14-REF).
+R63 pin 2 conectado a Net-(U14-REF).
+R63 pin 1 conectado a Net-(JP5-A).
+Actualizados C3 campos.
+Añadir R64 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R64.
+Valor R64 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 300R.
+Asociación de símbolos R64 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/1c267aac-7363-44ac-8e9c-27477b5ce0ce.
+Actualizados R64 campos.
+Nombre de hoja R64 actualizado a 'ADC'.
+Archivo de hoja R64 actualizado a 'ADC.kicad_sch'.
+Filtros de huella R64 actualizados a 'R_*'.
+R64 pin 2 conectado a GND3.
+R64 pin 1 conectado a Net-(U14-REF).
+Nombre de hoja C3 actualizado a 'Power Supply'.
+Añadir R66 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R66.
+Valor R66 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K.
+Asociación de símbolos R66 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/6cf385bd-ddcf-41c5-8990-951c1d62ac24.
+Actualizados R66 campos.
+Nombre de hoja R66 actualizado a 'Front End'.
+Archivo de hoja R66 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R66 actualizados a 'R_*'.
+R66 pin 1 conectado a Net-(Q2-B).
+Añadir red Net-(R66-Pad2).
+R66 pin 2 conectado a Net-(R66-Pad2).
+Archivo de hoja C3 actualizado a 'PWR.kicad_sch'.
+Añadir R67 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Indicador de referencia cambiado de REF** a R67.
+Valor R67 cambiado de R_0805_2012Metric_Pad1.20x1.40mm_HandSolder a 1K.
+Asociación de símbolos R67 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/ec433978-050c-44cd-aa81-1279019e3412.
+Actualizados R67 campos.
+Nombre de hoja R67 actualizado a 'Front End'.
+Archivo de hoja R67 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella R67 actualizados a 'R_*'.
+R67 pin 1 conectado a Net-(R66-Pad2).
+Añadir red RELAY.
+R67 pin 2 conectado a RELAY.
+Filtros de huella C3 actualizados a 'C_*'.
+Añadir R68 (huella 'Resistor_SMD:R_0402_1005Metric').
+Indicador de referencia cambiado de REF** a R68.
+Valor R68 cambiado de R_0402_1005Metric a 470R.
+Asociación de símbolos R68 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/118f2c63-991a-45ff-b0cd-a40dec02cc1a.
+Actualizados R68 campos.
+Nombre de hoja R68 actualizado a 'RPI SoC'.
+Archivo de hoja R68 actualizado a 'MCU.kicad_sch'.
+Filtros de huella R68 actualizados a 'R_*'.
+Añadir red /RPI SoC/ETH_LEDG.
+R68 pin 2 conectado a /RPI SoC/ETH_LEDG.
+Añadir red Net-(U20-LEDG_K).
+R68 pin 1 conectado a Net-(U20-LEDG_K).
+C3 pin 1 conectado a +5V.
+Añadir R69 (huella 'Resistor_SMD:R_0402_1005Metric').
+Indicador de referencia cambiado de REF** a R69.
+Valor R69 cambiado de R_0402_1005Metric a 470R.
+Asociación de símbolos R69 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/f59fc498-a4d8-4610-afd9-6e3086c3ca01.
+Actualizados R69 campos.
+Nombre de hoja R69 actualizado a 'RPI SoC'.
+Archivo de hoja R69 actualizado a 'MCU.kicad_sch'.
+Filtros de huella R69 actualizados a 'R_*'.
+Añadir red /RPI SoC/ETH_LEDY.
+R69 pin 2 conectado a /RPI SoC/ETH_LEDY.
+Añadir red Net-(U20-LEDY_K).
+R69 pin 1 conectado a Net-(U20-LEDY_K).
+C3 pin 2 conectado a GND.
+Añadir RV1 (huella 'Varistor:RV_Disc_D7mm_W4.2mm_P5mm').
+Indicador de referencia cambiado de REF** a RV1.
+Valor RV1 cambiado de RV_Disc_D7mm_W4.2mm_P5mm a Varistor.
+Asociación de símbolos RV1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/cedf8270-41b8-4053-8187-7475f6c758b3.
+Actualizados RV1 campos.
+Nombre de hoja RV1 actualizado a 'Power Supply'.
+Archivo de hoja RV1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella RV1 actualizados a 'RV_* Varistor*'.
+RV1 pin 1 conectado a Net-(J2-Pin_1).
+RV1 pin 2 conectado a Net-(U2-AC/L).
+Añadir C4 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir TP1 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP1.
+Valor TP1 cambiado de Pin_D1.0mm_L10.0mm a 5VA.
+Asociación de símbolos TP1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/b2b50389-0eff-4baf-9033-e22647831e43.
+Actualizados TP1 campos.
+Nombre de hoja TP1 actualizado a 'Power Supply'.
+Archivo de hoja TP1 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP1 actualizados a 'Pin* Test*'.
+TP1 pin 1 conectado a Net-(D1-A).
+Indicador de referencia cambiado de REF** a C4.
+Añadir TP2 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP2.
+Valor TP2 cambiado de Pin_D1.0mm_L10.0mm a 5VB.
+Asociación de símbolos TP2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/9a30713f-89d5-43b2-ae0f-85bd57c9cd1a.
+Actualizados TP2 campos.
+Nombre de hoja TP2 actualizado a 'Power Supply'.
+Archivo de hoja TP2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP2 actualizados a 'Pin* Test*'.
+TP2 pin 1 conectado a Net-(D2-A).
+Valor C4 cambiado de C_1206_3216Metric a 1nF.
+Añadir TP3 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP3.
+Valor TP3 cambiado de Pin_D1.0mm_L10.0mm a 1V2.
+Asociación de símbolos TP3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/4012953b-55af-448b-974e-81e3c20c8161.
+Actualizados TP3 campos.
+Nombre de hoja TP3 actualizado a 'Power Supply'.
+Archivo de hoja TP3 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP3 actualizados a 'Pin* Test*'.
+TP3 pin 1 conectado a +1V2.
+Asociación de símbolos C4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/0038b9c7-8d79-474a-81b0-ba3a60817cfe.
+Añadir TP4 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP4.
+Valor TP4 cambiado de Pin_D1.0mm_L10.0mm a 2V5.
+Asociación de símbolos TP4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/6aecd826-d56d-4160-99e4-f7ec4e4c5aa0.
+Actualizados TP4 campos.
+Nombre de hoja TP4 actualizado a 'Power Supply'.
+Archivo de hoja TP4 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP4 actualizados a 'Pin* Test*'.
+TP4 pin 1 conectado a +2V5.
+Actualizados C4 campos.
+Añadir TP5 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP5.
+Valor TP5 cambiado de Pin_D1.0mm_L10.0mm a 3V3.
+Asociación de símbolos TP5 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/f5b144e5-d206-4597-bfcd-0365d65341e9.
+Actualizados TP5 campos.
+Nombre de hoja TP5 actualizado a 'Power Supply'.
+Archivo de hoja TP5 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP5 actualizados a 'Pin* Test*'.
+TP5 pin 1 conectado a +3V3.
+Nombre de hoja C4 actualizado a 'Power Supply'.
+Añadir TP6 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP6.
+Valor TP6 cambiado de Pin_D1.0mm_L10.0mm a GND.
+Asociación de símbolos TP6 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/8151f0fe-fa48-436d-9ad0-f2350f988625.
+Actualizados TP6 campos.
+Nombre de hoja TP6 actualizado a 'Power Supply'.
+Archivo de hoja TP6 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP6 actualizados a 'Pin* Test*'.
+TP6 pin 1 conectado a GND.
+Archivo de hoja C4 actualizado a 'PWR.kicad_sch'.
+Añadir TP7 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Indicador de referencia cambiado de REF** a TP7.
+Valor TP7 cambiado de Pin_D1.0mm_L10.0mm a GND3.
+Asociación de símbolos TP7 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/8b6a58de-5b1e-4ace-96e4-f08d6ba530a4.
+Actualizados TP7 campos.
+Nombre de hoja TP7 actualizado a 'Power Supply'.
+Archivo de hoja TP7 actualizado a 'PWR.kicad_sch'.
+Filtros de huella TP7 actualizados a 'Pin* Test*'.
+TP7 pin 1 conectado a GND3.
+Filtros de huella C4 actualizados a 'C_*'.
+Añadir TP8 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Indicador de referencia cambiado de REF** a TP8.
+Valor TP8 cambiado de Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork a L2_lv.
+Asociación de símbolos TP8 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/199cd19a-17b8-4d5b-8236-0909d0909549.
+Actualizados TP8 campos.
+Nombre de hoja TP8 actualizado a 'Front End'.
+Archivo de hoja TP8 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella TP8 actualizados a 'Pin* Test*'.
+TP8 pin 1 conectado a /Front End/L2_LV.
+C4 pin 1 conectado a +5V.
+Añadir TP9 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Indicador de referencia cambiado de REF** a TP9.
+Valor TP9 cambiado de Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork a L1_lv.
+Asociación de símbolos TP9 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/e3b9b693-4478-486d-a357-6a07f77a69a6.
+Actualizados TP9 campos.
+Nombre de hoja TP9 actualizado a 'Front End'.
+Archivo de hoja TP9 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella TP9 actualizados a 'Pin* Test*'.
+TP9 pin 1 conectado a /Front End/L1_LV.
+C4 pin 2 conectado a GND.
+Añadir TP10 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Indicador de referencia cambiado de REF** a TP10.
+Valor TP10 cambiado de Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork a L3_lv.
+Asociación de símbolos TP10 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/829cf3de-e877-4ea9-a8c8-3615bdc1ca46.
+Actualizados TP10 campos.
+Nombre de hoja TP10 actualizado a 'Front End'.
+Archivo de hoja TP10 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella TP10 actualizados a 'Pin* Test*'.
+TP10 pin 1 conectado a /Front End/L3_LV.
+Añadir C5 (huella 'Capacitor_SMD:CP_Elec_8x6.9').
+Añadir TP11 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Indicador de referencia cambiado de REF** a TP11.
+Valor TP11 cambiado de Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork a N-lv.
+Asociación de símbolos TP11 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/bbaab592-7a78-41cf-a54c-f9fdc4070c0c.
+Actualizados TP11 campos.
+Nombre de hoja TP11 actualizado a 'Front End'.
+Archivo de hoja TP11 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella TP11 actualizados a 'Pin* Test*'.
+TP11 pin 1 conectado a /Front End/N_LV.
+Indicador de referencia cambiado de REF** a C5.
+Añadir TP12 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Indicador de referencia cambiado de REF** a TP12.
+Valor TP12 cambiado de Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork a lv_ref.
+Asociación de símbolos TP12 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/68da47f2-b490-41f4-8987-4293c79c1912.
+Actualizados TP12 campos.
+Nombre de hoja TP12 actualizado a 'Front End'.
+Archivo de hoja TP12 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella TP12 actualizados a 'Pin* Test*'.
+TP12 pin 1 conectado a GNDS.
+Valor C5 cambiado de CP_Elec_8x6.9 a 220uF.
+Añadir U1 (huella 'Library:DIP24_31.8X20.3X10.2_RCP').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de DIP24_31.8X20.3X10.2_RCP a ~.
+Asociación de símbolos U1 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/cf954b20-9ef6-42cc-8e72-2edfe55696a1.
+Actualizados U1 campos.
+Nombre de hoja U1 actualizado a 'Power Supply'.
+Archivo de hoja U1 actualizado a 'PWR.kicad_sch'.
+U1 pin 2 conectado a GND2.
+U1 pin 3 conectado a Net-(JP4-A).
+Asociación de símbolos C5 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/dcb6e976-9929-4fd4-b597-9e270b3425cf.
+Añadir U2 (huella 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-20-xx_THT').
+Indicador de referencia cambiado de REF** a U2.
+Valor U2 cambiado de Converter_ACDC_MeanWell_IRM-20-xx_THT a IRM-20-5.
+Asociación de símbolos U2 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/0ee9f8ec-4395-4a8f-877a-f314a03ed120.
+Actualizados U2 campos.
+Nombre de hoja U2 actualizado a 'Power Supply'.
+Archivo de hoja U2 actualizado a 'PWR.kicad_sch'.
+Filtros de huella U2 actualizados a 'Converter*ACDC*MeanWell*IRM*20*THT*'.
+U2 pin 4 conectado a Net-(JP1-A).
+U2 pin 1 conectado a Net-(U2-AC/L).
+U2 pin 2 conectado a Net-(J2-Pin_1).
+U2 pin 3 conectado a GND2.
+Actualizados C5 campos.
+Añadir U3 (huella 'Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias').
+Indicador de referencia cambiado de REF** a U3.
+Valor U3 cambiado de MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias a ~.
+Asociación de símbolos U3 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/b75d88f1-26eb-4b3a-8b8f-8bb29c4d6281.
+Actualizados U3 campos.
+Nombre de hoja U3 actualizado a 'Power Supply'.
+Archivo de hoja U3 actualizado a 'PWR.kicad_sch'.
+U3 pin 1 conectado a +1V2.
+U3 pin 11 conectado a /Power Supply/PWR_EN.
+U3 pin 8 conectado a +5VA.
+U3 pin 6 conectado a +5VA.
+U3 pin 12 conectado a GND3.
+U3 pin 20 conectado a +1V2.
+U3 pin 7 conectado a +5VA.
+U3 pin 18 conectado a +1V2.
+U3 pin 9 conectado a /Power Supply/PG.
+U3 pin 19 conectado a +1V2.
+U3 pin 10 conectado a +5VA.
+U3 pin 5 conectado a +5VA.
+U3 pin 16 conectado a Net-(U3-FB).
+Nombre de hoja C5 actualizado a 'Power Supply'.
+Añadir U4 (huella 'Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias').
+Indicador de referencia cambiado de REF** a U4.
+Valor U4 cambiado de MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias a ~.
+Asociación de símbolos U4 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/6e708d49-c4f9-4fe5-9a0e-81d23ad9c0ef.
+Actualizados U4 campos.
+Nombre de hoja U4 actualizado a 'Power Supply'.
+Archivo de hoja U4 actualizado a 'PWR.kicad_sch'.
+U4 pin 5 conectado a +5VA.
+U4 pin 16 conectado a Net-(U4-FB).
+U4 pin 11 conectado a /Power Supply/PWR_EN.
+U4 pin 8 conectado a +5VA.
+U4 pin 20 conectado a +2V5.
+U4 pin 1 conectado a +2V5.
+U4 pin 12 conectado a GND3.
+U4 pin 6 conectado a +5VA.
+U4 pin 9 conectado a /Power Supply/PG.
+U4 pin 10 conectado a +5VA.
+U4 pin 19 conectado a +2V5.
+U4 pin 18 conectado a +2V5.
+U4 pin 7 conectado a +5VA.
+Archivo de hoja C5 actualizado a 'PWR.kicad_sch'.
+Añadir U5 (huella 'Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias').
+Indicador de referencia cambiado de REF** a U5.
+Valor U5 cambiado de MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias a ~.
+Asociación de símbolos U5 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/41cb5f22-79e6-47cb-b7ad-a39312262e27.
+Actualizados U5 campos.
+Nombre de hoja U5 actualizado a 'Power Supply'.
+Archivo de hoja U5 actualizado a 'PWR.kicad_sch'.
+U5 pin 12 conectado a GND3.
+U5 pin 8 conectado a +5VA.
+U5 pin 6 conectado a +5VA.
+U5 pin 5 conectado a +5VA.
+U5 pin 11 conectado a Net-(U5-EN).
+U5 pin 20 conectado a +3V3.
+U5 pin 9 conectado a /Power Supply/PWR_EN.
+U5 pin 19 conectado a +3V3.
+U5 pin 10 conectado a +5VA.
+U5 pin 7 conectado a +5VA.
+U5 pin 1 conectado a +3V3.
+U5 pin 16 conectado a Net-(U5-FB).
+U5 pin 18 conectado a +3V3.
+Filtros de huella C5 actualizados a 'CP_*'.
+Añadir U6 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Indicador de referencia cambiado de REF** a U6.
+Valor U6 cambiado de SOT-23-6 a USBLC6-2SC6.
+Asociación de símbolos U6 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/f57c49b0-f5f8-48f9-847f-87d5ea199c5f.
+Actualizados U6 campos.
+Nombre de hoja U6 actualizado a 'Front End'.
+Archivo de hoja U6 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella U6 actualizados a 'SOT?23*'.
+U6 pin 6 conectado a Net-(R53-Pad1).
+U6 pin 4 conectado a Net-(R55-Pad1).
+U6 pin 3 conectado a /Front End/L2_LV.
+U6 pin 5 conectado a +5VA.
+U6 pin 2 conectado a GND3.
+U6 pin 1 conectado a /Front End/L1_LV.
+C5 pin 1 conectado a +5V.
+Añadir U7 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Indicador de referencia cambiado de REF** a U7.
+Valor U7 cambiado de SOT-23-6 a USBLC6-2SC6.
+Asociación de símbolos U7 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/25c08205-1ebd-4e08-b7f6-82046a7972ae.
+Actualizados U7 campos.
+Nombre de hoja U7 actualizado a 'Front End'.
+Archivo de hoja U7 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella U7 actualizados a 'SOT?23*'.
+U7 pin 5 conectado a +5VA.
+U7 pin 4 conectado a Net-(R58-Pad1).
+U7 pin 1 conectado a /Front End/L3_LV.
+U7 pin 3 conectado a /Front End/N_LV.
+U7 pin 6 conectado a Net-(R57-Pad1).
+U7 pin 2 conectado a GND3.
+C5 pin 2 conectado a GND.
+Añadir U8 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Indicador de referencia cambiado de REF** a U8.
+Valor U8 cambiado de SOT-23-6 a USBLC6-2SC6.
+Asociación de símbolos U8 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/4d941dc0-b6fc-4e38-b3ae-143145dd220e.
+Actualizados U8 campos.
+Nombre de hoja U8 actualizado a 'Front End'.
+Archivo de hoja U8 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella U8 actualizados a 'SOT?23*'.
+U8 pin 2 conectado a GND3.
+Añadir red I2_sense.
+U8 pin 4 conectado a I2_sense.
+U8 pin 1 conectado a /Front End/I1.
+U8 pin 3 conectado a /Front End/I2.
+Añadir red I1_sense.
+U8 pin 6 conectado a I1_sense.
+U8 pin 5 conectado a +5VA.
+Añadir C6 (huella 'Capacitor_SMD:CP_Elec_8x6.9').
+Añadir U9 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Indicador de referencia cambiado de REF** a U9.
+Valor U9 cambiado de SOT-23-6 a USBLC6-2SC6.
+Asociación de símbolos U9 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/67597a27-5d89-4ff0-8ad7-3ee252e4ed54.
+Actualizados U9 campos.
+Nombre de hoja U9 actualizado a 'Front End'.
+Archivo de hoja U9 actualizado a 'FrontEnd.kicad_sch'.
+Filtros de huella U9 actualizados a 'SOT?23*'.
+Añadir red I4_sense.
+U9 pin 4 conectado a I4_sense.
+U9 pin 3 conectado a /Front End/I4.
+U9 pin 2 conectado a GND3.
+Añadir red I3_sense.
+U9 pin 6 conectado a I3_sense.
+U9 pin 5 conectado a +5VA.
+U9 pin 1 conectado a /Front End/I3.
+Indicador de referencia cambiado de REF** a C6.
+Añadir U10 (huella 'Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm').
+Indicador de referencia cambiado de REF** a U10.
+Valor U10 cambiado de LQFP-64-1EP_10x10mm_P0.5mm_EP6.5x6.5mm a AD7768BSTZ.
+Asociación de símbolos U10 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/06953a39-731c-4839-a76b-c3accce9e15b.
+Actualizados U10 campos.
+Nombre de hoja U10 actualizado a 'ADC'.
+Archivo de hoja U10 actualizado a 'ADC.kicad_sch'.
+Añadir red unconnected-(U10-FORMAT1-Pad55).
+U10 pin 55 conectado a unconnected-(U10-FORMAT1-Pad55).
+Añadir red unconnected-(U10-~{START}-Pad37).
+U10 pin 37 conectado a unconnected-(U10-~{START}-Pad37).
+Añadir red unconnected-(U10-DOUT7-Pad20).
+U10 pin 20 conectado a unconnected-(U10-DOUT7-Pad20).
+U10 pin 31 conectado a GND3.
+U10 pin 48 conectado a GND3.
+U10 pin 34 conectado a Net-(U10-DREGCAP).
+Añadir red unconnected-(U10-DOUT3-Pad24).
+U10 pin 24 conectado a unconnected-(U10-DOUT3-Pad24).
+Añadir red unconnected-(U10-ST1/SCLK-Pad17).
+U10 pin 17 conectado a unconnected-(U10-ST1/SCLK-Pad17).
+U10 pin 40 conectado a GND3.
+U10 pin 45 conectado a AVDD.
+U10 pin 11 conectado a GND3.
+U10 pin 35 conectado a +5VA.
+U10 pin 58 conectado a GND3.
+U10 pin 8 conectado a L3_sense.
+Añadir red unconnected-(U10-FORMAT0-Pad56).
+U10 pin 56 conectado a unconnected-(U10-FORMAT0-Pad56).
+U10 pin 63 conectado a GND3.
+U10 pin 42 conectado a GND3.
+U10 pin 39 conectado a I4_sense.
+U10 pin 6 conectado a VREF.
+U10 pin 12 conectado a Net-(JP13-B).
+U10 pin 5 conectado a GND3.
+U10 pin 3 conectado a GND3.
+U10 pin 9 conectado a GND3.
+U10 pin 33 conectado a GND3.
+Añadir red unconnected-(U10-DOUT6-Pad21).
+U10 pin 21 conectado a unconnected-(U10-DOUT6-Pad21).
+Añadir red unconnected-(U10-DEC1/SDI-Pad18).
+U10 pin 18 conectado a unconnected-(U10-DEC1/SDI-Pad18).
+U10 pin 10 conectado a N_sense.
+U10 pin 52 conectado a Net-(U10-REGCAPB).
+U10 pin 64 conectado a L1_sense.
+U10 pin 44 conectado a GND3.
+U10 pin 53 conectado a AVDD.
+U10 pin 54 conectado a GND3.
+Añadir red unconnected-(U10-DOUT0-Pad27).
+U10 pin 27 conectado a unconnected-(U10-DOUT0-Pad27).
+Añadir red /ADC/XTAL2.
+U10 pin 32 conectado a /ADC/XTAL2.
+U10 pin 60 conectado a AVDD.
+U10 pin 62 conectado a GND3.
+U10 pin 51 conectado a GND3.
+U10 pin 2 conectado a L2_sense.
+Añadir red unconnected-(U10-DOUT2-Pad25).
+U10 pin 25 conectado a unconnected-(U10-DOUT2-Pad25).
+U10 pin 7 conectado a GND3.
+U10 pin 50 conectado a GND3.
+U10 pin 57 conectado a +5VA.
+U10 pin 47 conectado a I2_sense.
+U10 pin 43 conectado a VREF.
+U10 pin 30 conectado a Net-(U10-~{RESET}).
+Añadir red unconnected-(U10-~{SYNC_OUT}-Pad38).
+U10 pin 38 conectado a unconnected-(U10-~{SYNC_OUT}-Pad38).
+Añadir red unconnected-(U10-DEC0/SDO-Pad19).
+U10 pin 19 conectado a unconnected-(U10-DEC0/SDO-Pad19).
+U10 pin 15 conectado a Net-(JP10-B).
+Añadir red unconnected-(U10-~{DRDY}-Pad29).
+U10 pin 29 conectado a unconnected-(U10-~{DRDY}-Pad29).
+Añadir red unconnected-(U10-DOUT1-Pad26).
+U10 pin 26 conectado a unconnected-(U10-DOUT1-Pad26).
+U10 pin 49 conectado a I1_sense.
+Añadir red unconnected-(U10-~{SYNC_IN}-Pad36).
+U10 pin 36 conectado a unconnected-(U10-~{SYNC_IN}-Pad36).
+Añadir red unconnected-(U10-VCM-Pad59).
+U10 pin 59 conectado a unconnected-(U10-VCM-Pad59).
+U10 pin 1 conectado a GND3.
+U10 pin 13 conectado a Net-(JP11-B).
+Añadir red unconnected-(U10-DOUT5-Pad22).
+U10 pin 22 conectado a unconnected-(U10-DOUT5-Pad22).
+Añadir red unconnected-(U10-DOUT4-Pad23).
+U10 pin 23 conectado a unconnected-(U10-DOUT4-Pad23).
+U10 pin 4 conectado a AVDD.
+U10 pin 46 conectado a GND3.
+Añadir red unconnected-(U10-DCLK-Pad28).
+U10 pin 28 conectado a unconnected-(U10-DCLK-Pad28).
+Añadir red unconnected-(U10-ST0/~{CS}-Pad16).
+U10 pin 16 conectado a unconnected-(U10-ST0/~{CS}-Pad16).
+U10 pin 14 conectado a Net-(JP14-B).
+U10 pin 61 conectado a AVDD.
+U10 pin 41 conectado a I3_sense.
+Valor C6 cambiado de CP_Elec_8x6.9 a 220uF.
+Añadir U11 (huella 'Library:Raspberry-Pi-4-Compute-Module').
+Indicador de referencia cambiado de REF** a U11.
+Valor U11 cambiado de Raspberry-Pi-4-Compute-Module a CM4102008.
+Asociación de símbolos U11 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/1ef31580-1de9-429b-b8cc-ef997a964377.
+Actualizados U11 campos.
+Nombre de hoja U11 actualizado a 'RPI SoC'.
+Archivo de hoja U11 actualizado a 'MCU.kicad_sch'.
+U11 pin 43 conectado a GND.
+Añadir red unconnected-(U11A-GPIO10-Pad44).
+U11 pin 44 conectado a unconnected-(U11A-GPIO10-Pad44).
+U11 pin 33 conectado a GND.
+Añadir red /RPI SoC/CRST_N.
+U11 pin 51 conectado a /RPI SoC/CRST_N.
+Añadir red unconnected-(U11A-ANALOGIP1-Pad94).
+U11 pin 94 conectado a unconnected-(U11A-ANALOGIP1-Pad94).
+Añadir red unconnected-(U11B-PCIE_CLK_~{REQ}-Pad102).
+U11 pin 102 conectado a unconnected-(U11B-PCIE_CLK_~{REQ}-Pad102).
+Añadir red unconnected-(U11A-GPIO27-Pad48).
+U11 pin 48 conectado a unconnected-(U11A-GPIO27-Pad48).
+Añadir red unconnected-(U11A-CAMERA_GPIO-Pad97).
+U11 pin 97 conectado a unconnected-(U11A-CAMERA_GPIO-Pad97).
+Añadir red unconnected-(U11A-GLOBAL_EN-Pad99).
+U11 pin 99 conectado a unconnected-(U11A-GLOBAL_EN-Pad99).
+Añadir red unconnected-(U11A-ETHERNET_~{LED2}-Pad17).
+U11 pin 17 conectado a unconnected-(U11A-ETHERNET_~{LED2}-Pad17).
+U11 pin 197 conectado a GND.
+U11 pin 22 conectado a GND.
+Añadir red unconnected-(U11A-ID_SC-Pad35).
+U11 pin 35 conectado a unconnected-(U11A-ID_SC-Pad35).
+Añadir red unconnected-(U11B-CAM1_C_P-Pad129).
+U11 pin 129 conectado a unconnected-(U11B-CAM1_C_P-Pad129).
+Añadir red unconnected-(U11B-HDMI1_HOTPLUG-Pad143).
+U11 pin 143 conectado a unconnected-(U11B-HDMI1_HOTPLUG-Pad143).
+U11 pin 53 conectado a GND.
+Añadir red unconnected-(U11A-GPIO8-Pad39).
+U11 pin 39 conectado a unconnected-(U11A-GPIO8-Pad39).
+Añadir red unconnected-(U11A-SD_CLK-Pad57).
+U11 pin 57 conectado a unconnected-(U11A-SD_CLK-Pad57).
+Añadir red unconnected-(U11A-GPIO26-Pad24).
+U11 pin 24 conectado a unconnected-(U11A-GPIO26-Pad24).
+Añadir red unconnected-(U11B-HDMI1_TX1_P-Pad152).
+U11 pin 152 conectado a unconnected-(U11B-HDMI1_TX1_P-Pad152).
+Añadir red unconnected-(U11A-GPIO4-Pad54).
+U11 pin 54 conectado a unconnected-(U11A-GPIO4-Pad54).
+U11 pin 199 conectado a /RPI SoC/SDA.
+U11 pin 168 conectado a GND.
+Añadir red unconnected-(U11A-RESERVED-Pad104).
+U11 pin 104 conectado a unconnected-(U11A-RESERVED-Pad104).
+Añadir red unconnected-(U11A-GPIO20-Pad27).
+U11 pin 27 conectado a unconnected-(U11A-GPIO20-Pad27).
+Añadir red unconnected-(U11A-ETHERNET_PAIR0_N-Pad10).
+U11 pin 10 conectado a unconnected-(U11A-ETHERNET_PAIR0_N-Pad10).
+U11 pin 52 conectado a GND.
+Añadir red unconnected-(U11A-GPIO22-Pad46).
+U11 pin 46 conectado a unconnected-(U11A-GPIO22-Pad46).
+Añadir red unconnected-(U11B-CAM0_D0_N-Pad128).
+U11 pin 128 conectado a unconnected-(U11B-CAM0_D0_N-Pad128).
+Añadir red unconnected-(U11A-SD_VDD_OVERRIDE-Pad73).
+U11 pin 73 conectado a unconnected-(U11A-SD_VDD_OVERRIDE-Pad73).
+Añadir red unconnected-(U11B-PCIE_TX_N-Pad124).
+U11 pin 124 conectado a unconnected-(U11B-PCIE_TX_N-Pad124).
+U11 pin 98 conectado a GND.
+Añadir red unconnected-(U11A-ETHERNET_PAIR0_P-Pad12).
+U11 pin 12 conectado a unconnected-(U11A-ETHERNET_PAIR0_P-Pad12).
+U11 pin 132 conectado a GND.
+Añadir red /RPI SoC/SS.
+U11 pin 41 conectado a /RPI SoC/SS.
+Añadir red unconnected-(U11B-PCIE_RX_P-Pad116).
+U11 pin 116 conectado a unconnected-(U11B-PCIE_RX_P-Pad116).
+Añadir red unconnected-(U11B-DSI1_C_P-Pad189).
+U11 pin 189 conectado a unconnected-(U11B-DSI1_C_P-Pad189).
+U11 pin 176 conectado a /RPI SoC/TX1_P.
+Añadir red unconnected-(U11A-ETHERNET_PAIR2_N-Pad9).
+U11 pin 9 conectado a unconnected-(U11A-ETHERNET_PAIR2_N-Pad9).
+U11 pin 108 conectado a GND.
+U11 pin 170 conectado a /RPI SoC/TX2_P.
+Añadir red unconnected-(U11B-PCIE_TX_P-Pad122).
+U11 pin 122 conectado a unconnected-(U11B-PCIE_TX_P-Pad122).
+U11 pin 23 conectado a GND.
+Añadir red unconnected-(U11A-RUN_PG-Pad92).
+U11 pin 92 conectado a unconnected-(U11A-RUN_PG-Pad92).
+Añadir red unconnected-(U11A-RESERVED-Pad106).
+U11 pin 106 conectado a unconnected-(U11A-RESERVED-Pad106).
+U11 pin 151 conectado a /RPI SoC/CEC.
+U11 pin 137 conectado a GND.
+Añadir red unconnected-(U11A-PI_~{LED}_ACTIVITY-Pad21).
+U11 pin 21 conectado a unconnected-(U11A-PI_~{LED}_ACTIVITY-Pad21).
+U11 pin 172 conectado a /RPI SoC/TX2_N.
+Añadir red unconnected-(U11B-CAM1_D0_N-Pad115).
+U11 pin 115 conectado a unconnected-(U11B-CAM1_D0_N-Pad115).
+Añadir red unconnected-(U11B-CAM1_D3_P-Pad141).
+U11 pin 141 conectado a unconnected-(U11B-CAM1_D3_P-Pad141).
+U11 pin 200 conectado a /RPI SoC/SCL.
+Añadir red unconnected-(U11A-SD_CMD-Pad62).
+U11 pin 62 conectado a unconnected-(U11A-SD_CMD-Pad62).
+Añadir red unconnected-(U11B-PCIE_CLK_P-Pad110).
+U11 pin 110 conectado a unconnected-(U11B-PCIE_CLK_P-Pad110).
+Añadir red unconnected-(U11B-DSI1_D2_P-Pad195).
+U11 pin 195 conectado a unconnected-(U11B-DSI1_D2_P-Pad195).
+Añadir red unconnected-(U11B-DSI1_D0_P-Pad177).
+U11 pin 177 conectado a unconnected-(U11B-DSI1_D0_P-Pad177).
+Añadir red unconnected-(U11B-CAM0_D0_P-Pad130).
+U11 pin 130 conectado a unconnected-(U11B-CAM0_D0_P-Pad130).
+U11 pin 192 conectado a GND.
+Añadir red unconnected-(U11A-GPIO3-Pad56).
+U11 pin 56 conectado a unconnected-(U11A-GPIO3-Pad56).
+Añadir red unconnected-(U11B-DSI1_D3_N-Pad194).
+U11 pin 194 conectado a unconnected-(U11B-DSI1_D3_N-Pad194).
+U11 pin 119 conectado a GND.
+U11 pin 81 conectado a +5V.
+Añadir red unconnected-(U11B-DSI0_D1_P-Pad165).
+U11 pin 165 conectado a unconnected-(U11B-DSI0_D1_P-Pad165).
+Añadir red unconnected-(U11B-CAM0_D1_N-Pad134).
+U11 pin 134 conectado a unconnected-(U11B-CAM0_D1_N-Pad134).
+U11 pin 60 conectado a GND.
+U11 pin 120 conectado a GND.
+U11 pin 85 conectado a +5V.
+Añadir red unconnected-(U11B-HDMI1_CLK_P-Pad164).
+U11 pin 164 conectado a unconnected-(U11B-HDMI1_CLK_P-Pad164).
+Añadir red unconnected-(U11B-CAM0_C_N-Pad140).
+U11 pin 140 conectado a unconnected-(U11B-CAM0_C_N-Pad140).
+Añadir red unconnected-(U11B-USB_OTG_ID-Pad101).
+U11 pin 101 conectado a unconnected-(U11B-USB_OTG_ID-Pad101).
+Añadir red unconnected-(U11A-GPIO5-Pad34).
+U11 pin 34 conectado a unconnected-(U11A-GPIO5-Pad34).
+Añadir red unconnected-(U11A-ETHERNET_PAIR1_P-Pad4).
+U11 pin 4 conectado a unconnected-(U11A-ETHERNET_PAIR1_P-Pad4).
+Añadir red unconnected-(U11B-DSI0_C_N-Pad169).
+U11 pin 169 conectado a unconnected-(U11B-DSI0_C_N-Pad169).
+Añadir red /RPI SoC/CDONE.
+U11 pin 29 conectado a /RPI SoC/CDONE.
+Añadir red unconnected-(U11B-HDMI1_SCL-Pad147).
+U11 pin 147 conectado a unconnected-(U11B-HDMI1_SCL-Pad147).
+U11 pin 179 conectado a GND.
+Añadir red unconnected-(U11A-CM4_3.3V(OUTPUT)-Pad84).
+U11 pin 84 conectado a unconnected-(U11A-CM4_3.3V(OUTPUT)-Pad84).
+U11 pin 161 conectado a GND.
+Añadir red unconnected-(U11B-DSI1_D1_N-Pad181).
+U11 pin 181 conectado a unconnected-(U11B-DSI1_D1_N-Pad181).
+U11 pin 8 conectado a GND.
+Añadir red unconnected-(U11A-~{EXTRST}-Pad100).
+U11 pin 100 conectado a unconnected-(U11A-~{EXTRST}-Pad100).
+Añadir red unconnected-(U11B-HDMI1_CLK_N-Pad166).
+U11 pin 166 conectado a unconnected-(U11B-HDMI1_CLK_N-Pad166).
+U11 pin 156 conectado a GND.
+Añadir red unconnected-(U11A-RESERVED-Pad76).
+U11 pin 76 conectado a unconnected-(U11A-RESERVED-Pad76).
+U11 pin 125 conectado a GND.
+Añadir red unconnected-(U11A-SD_DAT6-Pad72).
+U11 pin 72 conectado a unconnected-(U11A-SD_DAT6-Pad72).
+U11 pin 186 conectado a GND.
+U11 pin 190 conectado a /RPI SoC/CLK_N.
+Añadir red unconnected-(U11A-SD_DAT0-Pad63).
+U11 pin 63 conectado a unconnected-(U11A-SD_DAT0-Pad63).
+U11 pin 173 conectado a GND.
+U11 pin 167 conectado a GND.
+Añadir red unconnected-(U11B-HDMI1_SDA-Pad145).
+U11 pin 145 conectado a unconnected-(U11B-HDMI1_SDA-Pad145).
+Añadir red unconnected-(U11B-CAM1_D3_N-Pad139).
+U11 pin 139 conectado a unconnected-(U11B-CAM1_D3_N-Pad139).
+U11 pin 13 conectado a GND.
+U11 pin 74 conectado a GND.
+U11 pin 180 conectado a GND.
+U11 pin 83 conectado a +5V.
+Añadir red unconnected-(U11A-ANALOGIP0-Pad96).
+U11 pin 96 conectado a unconnected-(U11A-ANALOGIP0-Pad96).
+U11 pin 59 conectado a GND.
+U11 pin 131 conectado a GND.
+U11 pin 178 conectado a /RPI SoC/TX1_N.
+Añadir red unconnected-(U11A-GPIO13-Pad28).
+U11 pin 28 conectado a unconnected-(U11A-GPIO13-Pad28).
+Añadir red unconnected-(U11B-DSI1_D0_N-Pad175).
+U11 pin 175 conectado a unconnected-(U11B-DSI1_D0_N-Pad175).
+U11 pin 14 conectado a GND.
+U11 pin 87 conectado a +5V.
+U11 pin 79 conectado a +5V.
+Añadir red unconnected-(U11A-SD_DAT7-Pad70).
+U11 pin 70 conectado a unconnected-(U11A-SD_DAT7-Pad70).
+U11 pin 66 conectado a GND.
+U11 pin 77 conectado a +5V.
+Añadir red unconnected-(U11B-DSI1_D2_N-Pad193).
+U11 pin 193 conectado a unconnected-(U11B-DSI1_D2_N-Pad193).
+Añadir red unconnected-(U11A-ETHERNET_PAIR3_P-Pad3).
+U11 pin 3 conectado a unconnected-(U11A-ETHERNET_PAIR3_P-Pad3).
+Añadir red unconnected-(U11B-PCIE_CLK_N-Pad112).
+U11 pin 112 conectado a unconnected-(U11B-PCIE_CLK_N-Pad112).
+Añadir red unconnected-(U11B-CAM0_C_P-Pad142).
+U11 pin 142 conectado a unconnected-(U11B-CAM0_C_P-Pad142).
+Añadir red unconnected-(U11A-SD_PWR_ON-Pad75).
+U11 pin 75 conectado a unconnected-(U11A-SD_PWR_ON-Pad75).
+Añadir red unconnected-(U11B-HDMI1_TX1_N-Pad154).
+U11 pin 154 conectado a unconnected-(U11B-HDMI1_TX1_N-Pad154).
+Añadir red unconnected-(U11A-ETHERNET_PAIR3_N-Pad5).
+U11 pin 5 conectado a unconnected-(U11A-ETHERNET_PAIR3_N-Pad5).
+Añadir red unconnected-(U11B-CAM1_D0_P-Pad117).
+U11 pin 117 conectado a unconnected-(U11B-CAM1_D0_P-Pad117).
+Añadir red unconnected-(U11A-GPIO21-Pad25).
+U11 pin 25 conectado a unconnected-(U11A-GPIO21-Pad25).
+Añadir red unconnected-(U11A-GPIO17-Pad50).
+U11 pin 50 conectado a unconnected-(U11A-GPIO17-Pad50).
+U11 pin 1 conectado a GND.
+Añadir red unconnected-(U11A-SD_DAT1-Pad67).
+U11 pin 67 conectado a unconnected-(U11A-SD_DAT1-Pad67).
+Añadir red unconnected-(U11A-BT_~{DISABLE}-Pad91).
+U11 pin 91 conectado a unconnected-(U11A-BT_~{DISABLE}-Pad91).
+U11 pin 7 conectado a GND.
+Añadir red unconnected-(U11A-~{RPIBOOT}-Pad93).
+U11 pin 93 conectado a unconnected-(U11A-~{RPIBOOT}-Pad93).
+Añadir red unconnected-(U11B-DSI0_D0_P-Pad159).
+U11 pin 159 conectado a unconnected-(U11B-DSI0_D0_P-Pad159).
+Añadir red unconnected-(U11B-CAM1_C_N-Pad127).
+U11 pin 127 conectado a unconnected-(U11B-CAM1_C_N-Pad127).
+U11 pin 188 conectado a /RPI SoC/CLK_P.
+Añadir red unconnected-(U11B-DSI0_D0_N-Pad157).
+U11 pin 157 conectado a unconnected-(U11B-DSI0_D0_N-Pad157).
+U11 pin 126 conectado a GND.
+Añadir red unconnected-(U11A-WL_~{DISABLE}-Pad89).
+U11 pin 89 conectado a unconnected-(U11A-WL_~{DISABLE}-Pad89).
+U11 pin 144 conectado a GND.
+Añadir red unconnected-(U11A-GPIO2-Pad58).
+U11 pin 58 conectado a unconnected-(U11A-GPIO2-Pad58).
+Añadir red unconnected-(U11A-GPIO6-Pad30).
+U11 pin 30 conectado a unconnected-(U11A-GPIO6-Pad30).
+Añadir red unconnected-(U11A-SD_DAT2-Pad69).
+U11 pin 69 conectado a unconnected-(U11A-SD_DAT2-Pad69).
+U11 pin 153 conectado a /RPI SoC/HotPlug.
+U11 pin 185 conectado a GND.
+Añadir red unconnected-(U11B-PCIE_~{RST}-Pad109).
+U11 pin 109 conectado a unconnected-(U11B-PCIE_~{RST}-Pad109).
+Añadir red unconnected-(U11A-CM4_3.3V(OUTPUT)-Pad84)_0.
+U11 pin 86 conectado a unconnected-(U11A-CM4_3.3V(OUTPUT)-Pad84)_0.
+Añadir red unconnected-(U11B-HDMI1_TX0_P-Pad158).
+U11 pin 158 conectado a unconnected-(U11B-HDMI1_TX0_P-Pad158).
+Añadir red unconnected-(U11A-ETHERNET_SYNC_IN-Pad16).
+U11 pin 16 conectado a unconnected-(U11A-ETHERNET_SYNC_IN-Pad16).
+Añadir red unconnected-(U11B-HDMI1_TX2_N-Pad148).
+U11 pin 148 conectado a unconnected-(U11B-HDMI1_TX2_N-Pad148).
+Añadir red unconnected-(U11B-PCIE_RX_N-Pad118).
+U11 pin 118 conectado a unconnected-(U11B-PCIE_RX_N-Pad118).
+U11 pin 113 conectado a GND.
+U11 pin 174 conectado a GND.
+Añadir red unconnected-(U11A-SCL0-Pad80).
+U11 pin 80 conectado a unconnected-(U11A-SCL0-Pad80).
+U11 pin 71 conectado a GND.
+Añadir red unconnected-(U11B-CAM0_D1_P-Pad136).
+U11 pin 136 conectado a unconnected-(U11B-CAM0_D1_P-Pad136).
+Añadir red unconnected-(U11A-ETHERNET_~{LED3}-Pad15).
+U11 pin 15 conectado a unconnected-(U11A-ETHERNET_~{LED3}-Pad15).
+Añadir red unconnected-(U11A-EEPROM_~{WP}-Pad20).
+U11 pin 20 conectado a unconnected-(U11A-EEPROM_~{WP}-Pad20).
+U11 pin 138 conectado a GND.
+Añadir red unconnected-(U11A-GPIO11-Pad38).
+U11 pin 38 conectado a unconnected-(U11A-GPIO11-Pad38).
+Añadir red unconnected-(U11B-DSI1_C_N-Pad187).
+U11 pin 187 conectado a unconnected-(U11B-DSI1_C_N-Pad187).
+Añadir red unconnected-(U11A-GPIO14-Pad55).
+U11 pin 55 conectado a unconnected-(U11A-GPIO14-Pad55).
+U11 pin 2 conectado a GND.
+Añadir red unconnected-(U11A-GPIO23-Pad47).
+U11 pin 47 conectado a unconnected-(U11A-GPIO23-Pad47).
+Añadir red unconnected-(U11B-VDAC_COMP-Pad111).
+U11 pin 111 conectado a unconnected-(U11B-VDAC_COMP-Pad111).
+Añadir red unconnected-(U11A-GPIO_VREF-Pad78).
+U11 pin 78 conectado a unconnected-(U11A-GPIO_VREF-Pad78).
+Añadir red unconnected-(U11A-GPIO18-Pad49).
+U11 pin 49 conectado a unconnected-(U11A-GPIO18-Pad49).
+U11 pin 182 conectado a /RPI SoC/TX0_P.
+Añadir red unconnected-(U11A-GPIO7-Pad37).
+U11 pin 37 conectado a unconnected-(U11A-GPIO7-Pad37).
+Añadir red unconnected-(U11B-CAM1_D1_N-Pad121).
+U11 pin 121 conectado a unconnected-(U11B-CAM1_D1_N-Pad121).
+U11 pin 162 conectado a GND.
+U11 pin 198 conectado a GND.
+Añadir red unconnected-(U11A-ETHERNET_~{LED1}-Pad19).
+U11 pin 19 conectado a unconnected-(U11A-ETHERNET_~{LED1}-Pad19).
+U11 pin 155 conectado a GND.
+Añadir red unconnected-(U11A-GPIO9-Pad40).
+U11 pin 40 conectado a unconnected-(U11A-GPIO9-Pad40).
+Añadir red unconnected-(U11A-CM4_1.8V(OUTPUT)-Pad88).
+U11 pin 88 conectado a unconnected-(U11A-CM4_1.8V(OUTPUT)-Pad88).
+Añadir red unconnected-(U11B-CAM1_D2_N-Pad133).
+U11 pin 133 conectado a unconnected-(U11B-CAM1_D2_N-Pad133).
+U11 pin 32 conectado a GND.
+U11 pin 65 conectado a GND.
+Añadir red unconnected-(U11B-HDMI1_TX0_N-Pad160).
+U11 pin 160 conectado a unconnected-(U11B-HDMI1_TX0_N-Pad160).
+Añadir red unconnected-(U11A-ETHERNET_PAIR2_P-Pad11).
+U11 pin 11 conectado a unconnected-(U11A-ETHERNET_PAIR2_P-Pad11).
+U11 pin 42 conectado a GND.
+Añadir red unconnected-(U11B-USB_N-Pad103).
+U11 pin 103 conectado a unconnected-(U11B-USB_N-Pad103).
+Añadir red unconnected-(U11B-DSI1_D1_P-Pad183).
+U11 pin 183 conectado a unconnected-(U11B-DSI1_D1_P-Pad183).
+U11 pin 150 conectado a GND.
+Añadir red unconnected-(U11A-GPIO19-Pad26).
+U11 pin 26 conectado a unconnected-(U11A-GPIO19-Pad26).
+Añadir red unconnected-(U11B-CAM1_D2_P-Pad135).
+U11 pin 135 conectado a unconnected-(U11B-CAM1_D2_P-Pad135).
+U11 pin 107 conectado a GND.
+Añadir red unconnected-(U11B-DSI0_C_P-Pad171).
+U11 pin 171 conectado a unconnected-(U11B-DSI0_C_P-Pad171).
+Añadir red unconnected-(U11A-PI_LED_~{PWR}-Pad95).
+U11 pin 95 conectado a unconnected-(U11A-PI_LED_~{PWR}-Pad95).
+Añadir red /RPI SoC/SCK.
+U11 pin 45 conectado a /RPI SoC/SCK.
+Añadir red unconnected-(U11A-SD_DAT4-Pad68).
+U11 pin 68 conectado a unconnected-(U11A-SD_DAT4-Pad68).
+U11 pin 114 conectado a GND.
+Añadir red unconnected-(U11B-HDMI1_CEC-Pad149).
+U11 pin 149 conectado a unconnected-(U11B-HDMI1_CEC-Pad149).
+Añadir red unconnected-(U11B-DSI1_D3_P-Pad196).
+U11 pin 196 conectado a unconnected-(U11B-DSI1_D3_P-Pad196).
+Añadir red unconnected-(U11A-GPIO12-Pad31).
+U11 pin 31 conectado a unconnected-(U11A-GPIO12-Pad31).
+Añadir red unconnected-(U11B-HDMI1_TX2_P-Pad146).
+U11 pin 146 conectado a unconnected-(U11B-HDMI1_TX2_P-Pad146).
+Añadir red unconnected-(U11A-SD_DAT3-Pad61).
+U11 pin 61 conectado a unconnected-(U11A-SD_DAT3-Pad61).
+Añadir red unconnected-(U11A-ETHERNET_SYNC_OUT-Pad18).
+U11 pin 18 conectado a unconnected-(U11A-ETHERNET_SYNC_OUT-Pad18).
+Añadir red unconnected-(U11A-ID_SD-Pad36).
+U11 pin 36 conectado a unconnected-(U11A-ID_SD-Pad36).
+Añadir red unconnected-(U11A-ETHERNET_PAIR1_N-Pad6).
+U11 pin 6 conectado a unconnected-(U11A-ETHERNET_PAIR1_N-Pad6).
+Añadir red unconnected-(U11A-CM4_1.8V(OUTPUT)-Pad88)_0.
+U11 pin 90 conectado a unconnected-(U11A-CM4_1.8V(OUTPUT)-Pad88)_0.
+U11 pin 184 conectado a /RPI SoC/TX0_N.
+Añadir red unconnected-(U11A-SDA0-Pad82).
+U11 pin 82 conectado a unconnected-(U11A-SDA0-Pad82).
+Añadir red unconnected-(U11A-SD_DAT5-Pad64).
+U11 pin 64 conectado a unconnected-(U11A-SD_DAT5-Pad64).
+Añadir red unconnected-(U11B-USB_P-Pad105).
+U11 pin 105 conectado a unconnected-(U11B-USB_P-Pad105).
+Añadir red unconnected-(U11B-CAM1_D1_P-Pad123).
+U11 pin 123 conectado a unconnected-(U11B-CAM1_D1_P-Pad123).
+Añadir red unconnected-(U11B-DSI0_D1_N-Pad163).
+U11 pin 163 conectado a unconnected-(U11B-DSI0_D1_N-Pad163).
+U11 pin 191 conectado a GND.
+Asociación de símbolos C6 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/1b962a39-5ff9-4f95-9eea-9d68b32993d4.
+Añadir U12 (huella 'Package_QFP:LQFP-144_20x20mm_P0.5mm').
+Indicador de referencia cambiado de REF** a U12.
+Valor U12 cambiado de LQFP-144_20x20mm_P0.5mm a T8Q144xx.
+Asociación de símbolos U12 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/5e4cc928-784c-444a-b0ab-1a209809270a.
+Actualizados U12 campos.
+Nombre de hoja U12 actualizado a 'ADC'.
+Archivo de hoja U12 actualizado a 'ADC.kicad_sch'.
+Filtros de huella U12 actualizados a 'LQFP*20x20mm*P0.5mm*'.
+Añadir red Net-(U12K-GND-Pad1).
+U12 pin 94 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12A-GPIOL_09_CDI1-Pad28).
+U12 pin 28 conectado a unconnected-(U12A-GPIOL_09_CDI1-Pad28).
+Añadir red unconnected-(U12J-GPIOB_TXP04-Pad42).
+U12 pin 42 conectado a unconnected-(U12J-GPIOB_TXP04-Pad42).
+Añadir red unconnected-(U12G-GPIOR_136_CDI16-Pad83).
+U12 pin 83 conectado a unconnected-(U12G-GPIOR_136_CDI16-Pad83).
+Añadir red unconnected-(U12D-GPIOL_67_CDI13-Pad140).
+U12 pin 140 conectado a unconnected-(U12D-GPIOL_67_CDI13-Pad140).
+Añadir red unconnected-(U12J-GPIOB_TXN09-Pad48).
+U12 pin 48 conectado a unconnected-(U12J-GPIOB_TXN09-Pad48).
+Añadir red unconnected-(U12K-VCC-Pad128).
+U12 pin 128 conectado a unconnected-(U12K-VCC-Pad128).
+Añadir red unconnected-(U12C-GPIOL_54_CDI11-Pad4).
+U12 pin 4 conectado a unconnected-(U12C-GPIOL_54_CDI11-Pad4).
+Añadir red unconnected-(U12E-GPIOR_84-Pad113).
+U12 pin 113 conectado a unconnected-(U12E-GPIOR_84-Pad113).
+Añadir red unconnected-(U12A-TMS-Pad25).
+U12 pin 25 conectado a unconnected-(U12A-TMS-Pad25).
+Añadir red unconnected-(U12I-GPIOB_RXP02-Pad58).
+U12 pin 58 conectado a unconnected-(U12I-GPIOB_RXP02-Pad58).
+Añadir red unconnected-(U12A-GPIOL_05_CSO-Pad33).
+U12 pin 33 conectado a unconnected-(U12A-GPIOL_05_CSO-Pad33).
+Añadir red unconnected-(U12J-GPIOB_TXP06-Pad45).
+U12 pin 45 conectado a unconnected-(U12J-GPIOB_TXP06-Pad45).
+Añadir red unconnected-(U12H-GPIOR_151_CBUS0-Pad78).
+U12 pin 78 conectado a unconnected-(U12H-GPIOR_151_CBUS0-Pad78).
+Añadir red unconnected-(U12A-CDONE-Pad34).
+U12 pin 34 conectado a unconnected-(U12A-CDONE-Pad34).
+Añadir red unconnected-(U12B-GPIOL_20_CTRL0_CDI4-Pad18).
+U12 pin 18 conectado a unconnected-(U12B-GPIOL_20_CTRL0_CDI4-Pad18).
+Añadir red unconnected-(U12H-GPIOR_155-Pad76).
+U12 pin 76 conectado a unconnected-(U12H-GPIOR_155-Pad76).
+Añadir red unconnected-(U12E-GPIOR_76_PLLIN0-Pad124).
+U12 pin 124 conectado a unconnected-(U12E-GPIOR_76_PLLIN0-Pad124).
+Añadir red unconnected-(U12F-GPIOR_94_CDI27-Pad106).
+U12 pin 106 conectado a unconnected-(U12F-GPIOR_94_CDI27-Pad106).
+Añadir red unconnected-(U12K-VCCA_TL-Pad2).
+U12 pin 2 conectado a unconnected-(U12K-VCCA_TL-Pad2).
+Añadir red unconnected-(U12E-GPIOR_86-Pad112).
+U12 pin 112 conectado a unconnected-(U12E-GPIOR_86-Pad112).
+U12 pin 127 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12C-GPIOL_31_CLK7_CDI6-Pad11).
+U12 pin 11 conectado a unconnected-(U12C-GPIOL_31_CLK7_CDI6-Pad11).
+Añadir red unconnected-(U12A-TDO-Pad24).
+U12 pin 24 conectado a unconnected-(U12A-TDO-Pad24).
+U12 pin 1 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12J-GPIOB_TXP09-Pad47).
+U12 pin 47 conectado a unconnected-(U12J-GPIOB_TXP09-Pad47).
+U12 pin 108 conectado a Net-(U12K-GND-Pad1).
+U12 pin 126 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12D-GPIOL_66_CDI12-Pad142).
+U12 pin 142 conectado a unconnected-(U12D-GPIOL_66_CDI12-Pad142).
+Añadir red unconnected-(U12A-GPIOL_08_CDI0-Pad29).
+U12 pin 29 conectado a unconnected-(U12A-GPIOL_08_CDI0-Pad29).
+Añadir red unconnected-(U12F-GPIOR_112_CDI23-Pad101).
+U12 pin 101 conectado a unconnected-(U12F-GPIOR_112_CDI23-Pad101).
+Añadir red unconnected-(U12K-VCC-Pad96).
+U12 pin 96 conectado a unconnected-(U12K-VCC-Pad96).
+Añadir red unconnected-(U12G-GPIOR_139-Pad81).
+U12 pin 81 conectado a unconnected-(U12G-GPIOR_139-Pad81).
+Añadir red unconnected-(U12D-GPIOL_70_CBSEL0-Pad137).
+U12 pin 137 conectado a unconnected-(U12D-GPIOL_70_CBSEL0-Pad137).
+Añadir red unconnected-(U12D-GPIOL_65-Pad141).
+U12 pin 141 conectado a unconnected-(U12D-GPIOL_65-Pad141).
+Añadir red unconnected-(U12E-GPIOR_83-Pad114).
+U12 pin 114 conectado a unconnected-(U12E-GPIOR_83-Pad114).
+Añadir red unconnected-(U12F-GPIOR_117_CTRL14-Pad98).
+U12 pin 98 conectado a unconnected-(U12F-GPIOR_117_CTRL14-Pad98).
+Añadir red unconnected-(U12F-GPIOR_104_CDI25-Pad103).
+U12 pin 103 conectado a unconnected-(U12F-GPIOR_104_CDI25-Pad103).
+U12 pin 133 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12C-VCCIO1C_1D-Pad12).
+U12 pin 12 conectado a unconnected-(U12C-VCCIO1C_1D-Pad12).
+Añadir red unconnected-(U12F-VCCIO3B_3C-Pad95).
+U12 pin 95 conectado a unconnected-(U12F-VCCIO3B_3C-Pad95).
+Añadir red unconnected-(U12G-VCCIO3D-Pad91).
+U12 pin 91 conectado a unconnected-(U12G-VCCIO3D-Pad91).
+Añadir red unconnected-(U12G-GPIOR_128_CTRL11-Pad90).
+U12 pin 90 conectado a unconnected-(U12G-GPIOR_128_CTRL11-Pad90).
+U12 pin 104 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12H-GPIOR_149_CBUS2-Pad80).
+U12 pin 80 conectado a unconnected-(U12H-GPIOR_149_CBUS2-Pad80).
+Añadir red unconnected-(U12A-TDI-Pad27).
+U12 pin 27 conectado a unconnected-(U12A-TDI-Pad27).
+Añadir red unconnected-(U12C-GPIOL_41_CDI9-Pad7).
+U12 pin 7 conectado a unconnected-(U12C-GPIOL_41_CDI9-Pad7).
+Añadir red unconnected-(U12D-VCCIO1E-Pad143).
+U12 pin 143 conectado a unconnected-(U12D-VCCIO1E-Pad143).
+Añadir red unconnected-(U12H-GPIOR_157_PLLIN-Pad75).
+U12 pin 75 conectado a unconnected-(U12H-GPIOR_157_PLLIN-Pad75).
+U12 pin 9 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12A-VCCIO1A-Pad23).
+U12 pin 23 conectado a unconnected-(U12A-VCCIO1A-Pad23).
+Añadir red unconnected-(U12J-REF_RES-Pad36).
+U12 pin 36 conectado a unconnected-(U12J-REF_RES-Pad36).
+Añadir red unconnected-(U12I-GPIOB_RXP07-Pad66).
+U12 pin 66 conectado a unconnected-(U12I-GPIOB_RXP07-Pad66).
+Añadir red unconnected-(U12A-CRESET_N-Pad35).
+U12 pin 35 conectado a unconnected-(U12A-CRESET_N-Pad35).
+U12 pin 44 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12A-GPIOL_04_CSI-Pad32).
+U12 pin 32 conectado a unconnected-(U12A-GPIOL_04_CSI-Pad32).
+Añadir red unconnected-(U12B-GPIOL_24_CLK0-Pad15).
+U12 pin 15 conectado a unconnected-(U12B-GPIOL_24_CLK0-Pad15).
+Añadir red unconnected-(U12G-GPIOR_125_CLK10-Pad92).
+U12 pin 92 conectado a unconnected-(U12G-GPIOR_125_CLK10-Pad92).
+Añadir red unconnected-(U12E-GPIOR_81_MREFCLK-Pad116).
+U12 pin 116 conectado a unconnected-(U12E-GPIOR_81_MREFCLK-Pad116).
+Añadir red unconnected-(U12G-GPIOR_129_CTRL10-Pad89).
+U12 pin 89 conectado a unconnected-(U12G-GPIOR_129_CTRL10-Pad89).
+Añadir red unconnected-(U12B-GPIOL_12_CDI2-Pad20).
+U12 pin 20 conectado a unconnected-(U12B-GPIOL_12_CDI2-Pad20).
+Añadir red Net-(U12J-VCCIO4B-Pad51).
+U12 pin 51 conectado a Net-(U12J-VCCIO4B-Pad51).
+Añadir red Net-(U12I-VCCIO4A-Pad62).
+U12 pin 62 conectado a Net-(U12I-VCCIO4A-Pad62).
+Añadir red unconnected-(U12H-GPIOR_150_CBUS1-Pad79).
+U12 pin 79 conectado a unconnected-(U12H-GPIOR_150_CBUS1-Pad79).
+Añadir red unconnected-(U12J-GPIOB_TXP02-Pad40).
+U12 pin 40 conectado a unconnected-(U12J-GPIOB_TXP02-Pad40).
+Añadir red unconnected-(U12J-GPIOB_TXN11-Pad54).
+U12 pin 54 conectado a unconnected-(U12J-GPIOB_TXN11-Pad54).
+Añadir red unconnected-(U12I-GPIOB_RXP10-Pad67).
+U12 pin 67 conectado a unconnected-(U12I-GPIOB_RXP10-Pad67).
+Añadir red unconnected-(U12F-GPIOR_122_CLK13_CDI21-Pad97).
+U12 pin 97 conectado a unconnected-(U12F-GPIOR_122_CLK13_CDI21-Pad97).
+U12 pin 52 conectado a Net-(U12J-VCCIO4B-Pad51).
+Añadir red unconnected-(U12I-GPIOB_CLKP0-Pad71).
+U12 pin 71 conectado a unconnected-(U12I-GPIOB_CLKP0-Pad71).
+U12 pin 37 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12I-GPIOB_RXN07-Pad65).
+U12 pin 65 conectado a unconnected-(U12I-GPIOB_RXN07-Pad65).
+Añadir red unconnected-(U12D-GPIOL_74_PLLIN0-Pad132).
+U12 pin 132 conectado a unconnected-(U12D-GPIOL_74_PLLIN0-Pad132).
+Añadir red unconnected-(U12D-GPIOL_71_NSTATUS-Pad136).
+U12 pin 136 conectado a unconnected-(U12D-GPIOL_71_NSTATUS-Pad136).
+Añadir red unconnected-(U12B-GPIOL_21_CTRL1_CDI5-Pad17).
+U12 pin 17 conectado a unconnected-(U12B-GPIOL_21_CTRL1_CDI5-Pad17).
+Añadir red unconnected-(U12E-GPIOR_78_EXTFB0_CDI31-Pad119).
+U12 pin 119 conectado a unconnected-(U12E-GPIOR_78_EXTFB0_CDI31-Pad119).
+U12 pin 129 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12F-GPIOR_95_CDI26-Pad105).
+U12 pin 105 conectado a unconnected-(U12F-GPIOR_95_CDI26-Pad105).
+Añadir red unconnected-(U12K-VCC-Pad57).
+U12 pin 57 conectado a unconnected-(U12K-VCC-Pad57).
+Añadir red unconnected-(U12J-GPIOB_TXP11-Pad53).
+U12 pin 53 conectado a unconnected-(U12J-GPIOB_TXP11-Pad53).
+Añadir red unconnected-(U12F-GPIOR_116_CTRL15-Pad99).
+U12 pin 99 conectado a unconnected-(U12F-GPIOR_116_CTRL15-Pad99).
+Añadir red unconnected-(U12I-GPIOB_RXP12_EXTFB0-Pad70).
+U12 pin 70 conectado a unconnected-(U12I-GPIOB_RXP12_EXTFB0-Pad70).
+Añadir red unconnected-(U12A-GPIOL_01_CCK-Pad30).
+U12 pin 30 conectado a unconnected-(U12A-GPIOL_01_CCK-Pad30).
+Añadir red unconnected-(U12E-GPIOR_77_PLLIN1-Pad123).
+U12 pin 123 conectado a unconnected-(U12E-GPIOR_77_PLLIN1-Pad123).
+Añadir red unconnected-(U12D-GPIOL_69_CBSEL1-Pad138).
+U12 pin 138 conectado a unconnected-(U12D-GPIOL_69_CBSEL1-Pad138).
+Añadir red unconnected-(U12B-GPIOL_13_CDI3-Pad19).
+U12 pin 19 conectado a unconnected-(U12B-GPIOL_13_CDI3-Pad19).
+Añadir red unconnected-(U12H-GPIOR_158_TEST_N-Pad74).
+U12 pin 74 conectado a unconnected-(U12H-GPIOR_158_TEST_N-Pad74).
+Añadir red unconnected-(U12A-GPIOL_00_SS_N-Pad31).
+U12 pin 31 conectado a unconnected-(U12A-GPIOL_00_SS_N-Pad31).
+Añadir red unconnected-(U12C-GPIOL_32_CTRL4_CDI7-Pad10).
+U12 pin 10 conectado a unconnected-(U12C-GPIOL_32_CTRL4_CDI7-Pad10).
+Añadir red unconnected-(U12F-GPIOR_113_CDI22-Pad100).
+U12 pin 100 conectado a unconnected-(U12F-GPIOR_113_CDI22-Pad100).
+Añadir red unconnected-(U12E-GPIOR_80-Pad117).
+U12 pin 117 conectado a unconnected-(U12E-GPIOR_80-Pad117).
+Añadir red unconnected-(U12E-GPIOR_87_CDI29-Pad110).
+U12 pin 110 conectado a unconnected-(U12E-GPIOR_87_CDI29-Pad110).
+Añadir red unconnected-(U12K-VCCA_TR-Pad107).
+U12 pin 107 conectado a unconnected-(U12K-VCCA_TR-Pad107).
+Añadir red unconnected-(U12I-GPIOB_RXN02-Pad59).
+U12 pin 59 conectado a unconnected-(U12I-GPIOB_RXN02-Pad59).
+Añadir red unconnected-(U12F-GPIOR_123_CLK12_CDI20-Pad93).
+U12 pin 93 conectado a unconnected-(U12F-GPIOR_123_CLK12_CDI20-Pad93).
+Añadir red unconnected-(U12K-VCCA_BR-Pad73).
+U12 pin 73 conectado a unconnected-(U12K-VCCA_BR-Pad73).
+U12 pin 64 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12D-GPIOL_68-Pad139).
+U12 pin 139 conectado a unconnected-(U12D-GPIOL_68-Pad139).
+Añadir red unconnected-(U12F-GPIOR_105_CDI24-Pad102).
+U12 pin 102 conectado a unconnected-(U12F-GPIOR_105_CDI24-Pad102).
+Añadir red unconnected-(U12J-GPIOB_TXN02-Pad41).
+U12 pin 41 conectado a unconnected-(U12J-GPIOB_TXN02-Pad41).
+Añadir red unconnected-(U12G-GPIOR_133_CDI18-Pad86).
+U12 pin 86 conectado a unconnected-(U12G-GPIOR_133_CDI18-Pad86).
+Añadir red unconnected-(U12H-VCCIO3E-Pad88).
+U12 pin 88 conectado a unconnected-(U12H-VCCIO3E-Pad88).
+Añadir red unconnected-(U12E-GPIOR_85-Pad111).
+U12 pin 111 conectado a unconnected-(U12E-GPIOR_85-Pad111).
+Añadir red unconnected-(U12D-GPIOL_64-Pad144).
+U12 pin 144 conectado a unconnected-(U12D-GPIOL_64-Pad144).
+Añadir red unconnected-(U12I-GPIOB_RXN12_EXTFB0-Pad69).
+U12 pin 69 conectado a unconnected-(U12I-GPIOB_RXN12_EXTFB0-Pad69).
+Añadir red unconnected-(U12K-VCC-Pad130).
+U12 pin 130 conectado a unconnected-(U12K-VCC-Pad130).
+Añadir red unconnected-(U12J-GPIOB_TXP00-Pad38).
+U12 pin 38 conectado a unconnected-(U12J-GPIOB_TXP00-Pad38).
+Añadir red unconnected-(U12D-GPIOL_72_EXTFB0_CDI14-Pad135).
+U12 pin 135 conectado a unconnected-(U12D-GPIOL_72_EXTFB0_CDI14-Pad135).
+Añadir red unconnected-(U12I-GPIOB_RXP03-Pad61).
+U12 pin 61 conectado a unconnected-(U12I-GPIOB_RXP03-Pad61).
+Añadir red unconnected-(U12G-GPIOR_132_CDI19-Pad87).
+U12 pin 87 conectado a unconnected-(U12G-GPIOR_132_CDI19-Pad87).
+Añadir red unconnected-(U12G-GPIOR_138-Pad82).
+U12 pin 82 conectado a unconnected-(U12G-GPIOR_138-Pad82).
+Añadir red unconnected-(U12J-GPIOB_TXN04-Pad43).
+U12 pin 43 conectado a unconnected-(U12J-GPIOB_TXN04-Pad43).
+Añadir red unconnected-(U12I-GPIOB_RXN10-Pad68).
+U12 pin 68 conectado a unconnected-(U12I-GPIOB_RXN10-Pad68).
+Añadir red unconnected-(U12H-GPIOR_154-Pad77).
+U12 pin 77 conectado a unconnected-(U12H-GPIOR_154-Pad77).
+Añadir red unconnected-(U12I-GPIOB_RXP00-Pad55).
+U12 pin 55 conectado a unconnected-(U12I-GPIOB_RXP00-Pad55).
+Añadir red unconnected-(U12I-GPIOB_CLKN0-Pad72).
+U12 pin 72 conectado a unconnected-(U12I-GPIOB_CLKN0-Pad72).
+Añadir red unconnected-(U12B-GPIOL_25_CLK1-Pad14).
+U12 pin 14 conectado a unconnected-(U12B-GPIOL_25_CLK1-Pad14).
+Añadir red unconnected-(U12K-VCC-Pad85).
+U12 pin 85 conectado a unconnected-(U12K-VCC-Pad85).
+Añadir red unconnected-(U12I-GPIOB_RXN00-Pad56).
+U12 pin 56 conectado a unconnected-(U12I-GPIOB_RXN00-Pad56).
+Añadir red unconnected-(U12C-GPIOL_53_CDI10-Pad3).
+U12 pin 3 conectado a unconnected-(U12C-GPIOL_53_CDI10-Pad3).
+Añadir red unconnected-(U12E-VCCIO3A-Pad122).
+U12 pin 122 conectado a unconnected-(U12E-VCCIO3A-Pad122).
+U12 pin 50 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12D-GPIOL_73_EXTFB1_CDI15-Pad134).
+U12 pin 134 conectado a unconnected-(U12D-GPIOL_73_EXTFB1_CDI15-Pad134).
+U12 pin 120 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12E-GPIOR_88_CDI28-Pad109).
+U12 pin 109 conectado a unconnected-(U12E-GPIOR_88_CDI28-Pad109).
+U12 pin 63 conectado a Net-(U12I-VCCIO4A-Pad62).
+Añadir red unconnected-(U12B-VCCIO1B-Pad21).
+U12 pin 21 conectado a unconnected-(U12B-VCCIO1B-Pad21).
+Añadir red unconnected-(U12A-TCK-Pad26).
+U12 pin 26 conectado a unconnected-(U12A-TCK-Pad26).
+Añadir red unconnected-(U12C-GPIOL_40_CDI8-Pad8).
+U12 pin 8 conectado a unconnected-(U12C-GPIOL_40_CDI8-Pad8).
+U12 pin 5 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12K-VCC-Pad125).
+U12 pin 125 conectado a unconnected-(U12K-VCC-Pad125).
+Añadir red unconnected-(U12J-GPIOB_TXN00-Pad39).
+U12 pin 39 conectado a unconnected-(U12J-GPIOB_TXN00-Pad39).
+Añadir red unconnected-(U12B-GPIOL_22_CTRL2-Pad16).
+U12 pin 16 conectado a unconnected-(U12B-GPIOL_22_CTRL2-Pad16).
+Añadir red unconnected-(U12E-GPIOR_79_EXTFB1_CDI30-Pad118).
+U12 pin 118 conectado a unconnected-(U12E-GPIOR_79_EXTFB1_CDI30-Pad118).
+Añadir red unconnected-(U12E-GPIOR_82-Pad115).
+U12 pin 115 conectado a unconnected-(U12E-GPIOR_82-Pad115).
+Añadir red unconnected-(U12K-VCC-Pad49).
+U12 pin 49 conectado a unconnected-(U12K-VCC-Pad49).
+Añadir red unconnected-(U12D-GPIOL_75_PLLIN1-Pad131).
+U12 pin 131 conectado a unconnected-(U12D-GPIOL_75_PLLIN1-Pad131).
+Añadir red unconnected-(U12K-VCC-Pad13).
+U12 pin 13 conectado a unconnected-(U12K-VCC-Pad13).
+Añadir red unconnected-(U12I-GPIOB_RXN03-Pad60).
+U12 pin 60 conectado a unconnected-(U12I-GPIOB_RXN03-Pad60).
+U12 pin 121 conectado a Net-(U12K-GND-Pad1).
+Añadir red unconnected-(U12G-GPIOR_135_CDI17-Pad84).
+U12 pin 84 conectado a unconnected-(U12G-GPIOR_135_CDI17-Pad84).
+Añadir red unconnected-(U12C-GPIOL_46-Pad6).
+U12 pin 6 conectado a unconnected-(U12C-GPIOL_46-Pad6).
+Añadir red unconnected-(U12J-GPIOB_TXN06-Pad46).
+U12 pin 46 conectado a unconnected-(U12J-GPIOB_TXN06-Pad46).
+Añadir red unconnected-(U12K-VCC-Pad22).
+U12 pin 22 conectado a unconnected-(U12K-VCC-Pad22).
+Actualizados C6 campos.
+Añadir U13 (huella 'Package_TO_SOT_SMD:SOT-23-5').
+Indicador de referencia cambiado de REF** a U13.
+Valor U13 cambiado de SOT-23-5 a TL431DBV.
+Asociación de símbolos U13 actualizada de  a /876833b1-ed1e-43a9-8c33-ef43b1c85ab3/062bd386-d802-403c-aec8-d473b02a4fa0.
+Actualizados U13 campos.
+Nombre de hoja U13 actualizado a 'Power Supply'.
+Archivo de hoja U13 actualizado a 'PWR.kicad_sch'.
+Filtros de huella U13 actualizados a 'SOT?23?5*'.
+U13 pin 4 conectado a Net-(U13-REF).
+U13 pin 5 conectado a GND3.
+U13 pin 3 conectado a GNDS.
+Nombre de hoja C6 actualizado a 'Power Supply'.
+Añadir U14 (huella 'Package_TO_SOT_SMD:SOT-23-5').
+Indicador de referencia cambiado de REF** a U14.
+Valor U14 cambiado de SOT-23-5 a TL431DBV.
+Asociación de símbolos U14 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/5439b247-0602-46c4-b4cc-0fa67452297e.
+Actualizados U14 campos.
+Nombre de hoja U14 actualizado a 'ADC'.
+Archivo de hoja U14 actualizado a 'ADC.kicad_sch'.
+Filtros de huella U14 actualizados a 'SOT?23?5*'.
+U14 pin 4 conectado a Net-(U14-REF).
+U14 pin 5 conectado a GND3.
+U14 pin 3 conectado a Net-(JP5-A).
+Archivo de hoja C6 actualizado a 'PWR.kicad_sch'.
+Añadir U15 (huella 'Package_TO_SOT_SMD:SOT-23').
+Indicador de referencia cambiado de REF** a U15.
+Valor U15 cambiado de SOT-23 a RT9742SNGV.
+Asociación de símbolos U15 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/0aef9683-a3e6-470d-93d0-1cc77c4e57a9.
+Actualizados U15 campos.
+Nombre de hoja U15 actualizado a 'RPI SoC'.
+Archivo de hoja U15 actualizado a 'MCU.kicad_sch'.
+U15 pin 2 conectado a /RPI SoC/HDMI.5V.
+U15 pin 1 conectado a +5V.
+U15 pin 3 conectado a GND.
+Filtros de huella C6 actualizados a 'CP_*'.
+Añadir U16 (huella 'Package_TO_SOT_SMD:SOT-23').
+Indicador de referencia cambiado de REF** a U16.
+Valor U16 cambiado de SOT-23 a RT9742SNGV.
+Asociación de símbolos U16 actualizada de  a /50792081-f14c-4930-8cfc-9386792323d5/9cccfe85-d11f-4dcf-a4b9-920352c02f61.
+Actualizados U16 campos.
+Nombre de hoja U16 actualizado a 'Front End'.
+Archivo de hoja U16 actualizado a 'FrontEnd.kicad_sch'.
+U16 pin 3 conectado a GND3.
+U16 pin 1 conectado a +5VA.
+U16 pin 2 conectado a /Front End/Ext5V.
+Añadir red Net-(D2-A).
+Añadir U17 (huella 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm').
+Indicador de referencia cambiado de REF** a U17.
+Valor U17 cambiado de SSOP-16_3.9x4.9mm_P0.635mm a ISO7760FDBQ.
+Asociación de símbolos U17 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/d053695a-0349-4aa4-9d06-edfa7e863607.
+Actualizados U17 campos.
+Nombre de hoja U17 actualizado a 'RPI SoC'.
+Archivo de hoja U17 actualizado a 'MCU.kicad_sch'.
+Filtros de huella U17 actualizados a 'SSOP*3.9x4.9mm*P0.635mm*'.
+Añadir red unconnected-(U17-INF-Pad7).
+U17 pin 7 conectado a unconnected-(U17-INF-Pad7).
+Añadir red unconnected-(U17-OUTE-Pad11).
+U17 pin 11 conectado a unconnected-(U17-OUTE-Pad11).
+Añadir red unconnected-(U17-INE-Pad6).
+U17 pin 6 conectado a unconnected-(U17-INE-Pad6).
+Añadir red unconnected-(U17-INC-Pad4).
+U17 pin 4 conectado a unconnected-(U17-INC-Pad4).
+Añadir red unconnected-(U17-OUTD-Pad12).
+U17 pin 12 conectado a unconnected-(U17-OUTD-Pad12).
+Añadir red unconnected-(U17-INA-Pad2).
+U17 pin 2 conectado a unconnected-(U17-INA-Pad2).
+Añadir red unconnected-(U17-OUTB-Pad14).
+U17 pin 14 conectado a unconnected-(U17-OUTB-Pad14).
+Añadir red unconnected-(U17-INB-Pad3).
+U17 pin 3 conectado a unconnected-(U17-INB-Pad3).
+U17 pin 16 conectado a +5VA.
+U17 pin 8 conectado a GND.
+Añadir red unconnected-(U17-OUTA-Pad15).
+U17 pin 15 conectado a unconnected-(U17-OUTA-Pad15).
+Añadir red unconnected-(U17-IND-Pad5).
+U17 pin 5 conectado a unconnected-(U17-IND-Pad5).
+U17 pin 9 conectado a GND3.
+U17 pin 1 conectado a +5V.
+Añadir red unconnected-(U17-OUTC-Pad13).
+U17 pin 13 conectado a unconnected-(U17-OUTC-Pad13).
+Añadir red unconnected-(U17-OUTF-Pad10).
+U17 pin 10 conectado a unconnected-(U17-OUTF-Pad10).
+C6 pin 1 conectado a Net-(D2-A).
+Añadir U18 (huella 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Indicador de referencia cambiado de REF** a U18.
+Valor U18 cambiado de USON-10_2.5x1.0mm_P0.5mm a TPD4EUSB30.
+Asociación de símbolos U18 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/78264621-53bc-486e-9977-b9addd482ab0.
+Actualizados U18 campos.
+Nombre de hoja U18 actualizado a 'RPI SoC'.
+Archivo de hoja U18 actualizado a 'MCU.kicad_sch'.
+Filtros de huella U18 actualizados a 'USON*2.5x1.0mm*P0.5mm*'.
+Añadir red /RPI SoC/TRD3_N.
+U18 pin 9 conectado a /RPI SoC/TRD3_N.
+Añadir red /RPI SoC/TRD2_N.
+U18 pin 7 conectado a /RPI SoC/TRD2_N.
+U18 pin 8 conectado a GND.
+Añadir red /RPI SoC/TRD2_P.
+U18 pin 5 conectado a /RPI SoC/TRD2_P.
+Añadir red /RPI SoC/TRD3_P.
+U18 pin 1 conectado a /RPI SoC/TRD3_P.
+U18 pin 2 conectado a /RPI SoC/TRD3_N.
+U18 pin 3 conectado a GND.
+U18 pin 10 conectado a /RPI SoC/TRD3_P.
+U18 pin 6 conectado a /RPI SoC/TRD2_P.
+U18 pin 4 conectado a /RPI SoC/TRD2_N.
+Añadir red GND3.
+Añadir U19 (huella 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Indicador de referencia cambiado de REF** a U19.
+Valor U19 cambiado de USON-10_2.5x1.0mm_P0.5mm a TPD4EUSB30.
+Asociación de símbolos U19 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/b15c9625-8806-463a-b68a-9a332599789b.
+Actualizados U19 campos.
+Nombre de hoja U19 actualizado a 'RPI SoC'.
+Archivo de hoja U19 actualizado a 'MCU.kicad_sch'.
+Filtros de huella U19 actualizados a 'USON*2.5x1.0mm*P0.5mm*'.
+Añadir red /RPI SoC/TRD0_N.
+U19 pin 7 conectado a /RPI SoC/TRD0_N.
+U19 pin 4 conectado a /RPI SoC/TRD0_N.
+Añadir red /RPI SoC/TRD0_P.
+U19 pin 5 conectado a /RPI SoC/TRD0_P.
+Añadir red /RPI SoC/TRD1_N.
+U19 pin 9 conectado a /RPI SoC/TRD1_N.
+U19 pin 3 conectado a GND.
+Añadir red /RPI SoC/TRD1_P.
+U19 pin 10 conectado a /RPI SoC/TRD1_P.
+U19 pin 8 conectado a GND.
+U19 pin 6 conectado a /RPI SoC/TRD0_P.
+U19 pin 1 conectado a /RPI SoC/TRD1_P.
+U19 pin 2 conectado a /RPI SoC/TRD1_N.
+C6 pin 2 conectado a GND3.
+Añadir U20 (huella 'Connector_RJ:RJ45_Wuerth_7499111446_Horizontal').
+Indicador de referencia cambiado de REF** a U20.
+Valor U20 cambiado de RJ45_Wuerth_7499111446_Horizontal a MagJack-A70-112-331N126.
+Asociación de símbolos U20 actualizada de  a /876f5c0e-843e-4403-a11b-0a4bb8719166/cb346cf8-6717-4e42-bdd7-5780313b3575.
+Actualizados U20 campos.
+Nombre de hoja U20 actualizado a 'RPI SoC'.
+Archivo de hoja U20 actualizado a 'MCU.kicad_sch'.
+U20 pin 7 conectado a /RPI SoC/TRD2_P.
+U20 pin 14 conectado a /RPI SoC/TR3_TAP.
+U20 pin 2 conectado a /RPI SoC/TRD0_N.
+U20 pin 5 conectado a Net-(C48-Pad1).
+U20 pin 11 conectado a /RPI SoC/TR0_TAP.
+U20 pin 4 conectado a Net-(C48-Pad1).
+U20 pin 12 conectado a /RPI SoC/TR1_TAP.
+U20 pin 1 conectado a /RPI SoC/TRD0_P.
+U20 pin 9 conectado a /RPI SoC/TRD3_P.
+U20 pin 13 conectado a /RPI SoC/TR2_TAP.
+U20 pin 3 conectado a /RPI SoC/TRD1_P.
+U20 pin 10 conectado a /RPI SoC/TRD3_N.
+U20 pin 6 conectado a /RPI SoC/TRD1_N.
+U20 pin 8 conectado a /RPI SoC/TRD2_N.
+Añadir C7 (huella 'Capacitor_SMD:CP_Elec_8x6.9').
+Añadir X1 (huella 'Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm').
+Indicador de referencia cambiado de REF** a X1.
+Valor X1 cambiado de Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm a SG-210STF.
+Asociación de símbolos X1 actualizada de  a /843e6ad9-748e-4c64-a007-793fc47906a2/9ddb94d5-bce5-4c76-95cd-e44b8ead986c.
+Actualizados X1 campos.
+Nombre de hoja X1 actualizado a 'ADC'.
+Archivo de hoja X1 actualizado a 'ADC.kicad_sch'.
+Filtros de huella X1 actualizados a 'Oscillator*SMD*SeikoEpson*SG210*2.5x2.0mm*'.
+X1 pin 2 conectado a GND3.
+X1 pin 3 conectado a /ADC/XTAL2.
+X1 pin 4 conectado a +5VA.
+X1 pin 1 conectado a Net-(X1-~{ST}).
+Aviso: No se ha encontrado la red del componente U3 pad 2 (no hay un pin 2 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U1 pad 22 (no hay un pin 22 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 3 (no hay un pin 3 en el símbolo).
+Aviso: No se ha encontrado la red del componente U10 pad 65 (no hay un pin 65 en el símbolo).
+Aviso: No se ha encontrado la red del componente U14 pad 2 (no hay un pin 2 en el símbolo).
+Aviso: No se ha encontrado la red del componente U14 pad 1 (no hay un pin 1 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U1 pad 16 (no hay un pin 16 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 17 (no hay un pin 17 en el símbolo).
+Aviso: No se ha encontrado la red del componente U1 pad 9 (no hay un pin 9 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 13 (no hay un pin 13 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 2 (no hay un pin 2 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 15 (no hay un pin 15 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 14 (no hay un pin 14 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 17 (no hay un pin 17 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 4 (no hay un pin 4 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 4 (no hay un pin 4 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U20 pad SH (no hay un pin SH en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 3 (no hay un pin 3 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 13 (no hay un pin 13 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 15 (no hay un pin 15 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 14 (no hay un pin 14 en el símbolo).
+Aviso: No se ha encontrado la red del componente U5 pad 2 (no hay un pin 2 en el símbolo).
+Aviso: No se ha encontrado la red del componente U20 pad SH (no hay un pin SH en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 3 (no hay un pin 3 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 17 (no hay un pin 17 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U1 pad 11 (no hay un pin 11 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 14 (no hay un pin 14 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 13 (no hay un pin 13 en el símbolo).
+Aviso: No se ha encontrado la red del componente U13 pad 1 (no hay un pin 1 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U4 pad 21 (no hay un pin 21 en el símbolo).
+Aviso: No se ha encontrado la red del componente U13 pad 2 (no hay un pin 2 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 4 (no hay un pin 4 en el símbolo).
+Aviso: No se ha encontrado la red del componente U3 pad 15 (no hay un pin 15 en el símbolo).
+Aviso: No se ha encontrado la red del componente U1 pad 14 (no hay un pin 14 en el símbolo).
+Aviso: No se ha encontrado la red del componente U1 pad 23 (no hay un pin 23 en el símbolo).
+Error: No se ha encontrado U1 pad 4 en Library:DIP24_31.8X20.3X10.2_RCP.
+Error: No se ha encontrado U1 pad 1 en Library:DIP24_31.8X20.3X10.2_RCP.
+Error: No se ha encontrado U3 pad PAD en Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias.
+Error: No se ha encontrado U4 pad PAD en Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias.
+Error: No se ha encontrado U5 pad PAD en Package_DFN_QFN:MLF-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias.
+Error: No se ha encontrado U11 pad SH1 en Library:Raspberry-Pi-4-Compute-Module.
+Error: No se ha encontrado U11 pad SH2 en Library:Raspberry-Pi-4-Compute-Module.
+Error: No se ha encontrado U11 pad SH3 en Library:Raspberry-Pi-4-Compute-Module.
+Error: No se ha encontrado U11 pad SH4 en Library:Raspberry-Pi-4-Compute-Module.
+Error: No se ha encontrado U20 pad 15 en Connector_RJ:RJ45_Wuerth_7499111446_Horizontal.
+Error: No se ha encontrado U20 pad 17 en Connector_RJ:RJ45_Wuerth_7499111446_Horizontal.
+Error: No se ha encontrado U20 pad 19 en Connector_RJ:RJ45_Wuerth_7499111446_Horizontal.
+Error: No se ha encontrado U20 pad 20 en Connector_RJ:RJ45_Wuerth_7499111446_Horizontal.
+Error: No se ha encontrado U20 pad 16 en Connector_RJ:RJ45_Wuerth_7499111446_Horizontal.
+Error: No se ha encontrado U20 pad 18 en Connector_RJ:RJ45_Wuerth_7499111446_Horizontal.
+
+
+Info: Número de avisos: 52, errores: 15.

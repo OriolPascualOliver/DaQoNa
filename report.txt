@@ -1,0 +1,397 @@
+Info: Procesando el símbolo 'C1:'.
+Info: Procesando el símbolo 'R29:'.
+Info: Procesando el símbolo 'C2:'.
+Info: Procesando el símbolo 'R5:'.
+Info: Procesando el símbolo 'C3:'.
+Info: Procesando el símbolo 'R6:'.
+Info: Procesando el símbolo 'C4:'.
+Info: Procesando el símbolo 'R7:'.
+Info: Procesando el símbolo 'C5:'.
+Info: Procesando el símbolo 'R8:'.
+Info: Procesando el símbolo 'C6:'.
+Info: Procesando el símbolo 'R9:'.
+Info: Procesando el símbolo 'C7:'.
+Info: Procesando el símbolo 'R10:'.
+Info: Procesando el símbolo 'C8:'.
+Info: Procesando el símbolo 'R11:'.
+Info: Procesando el símbolo 'C9:'.
+Info: Procesando el símbolo 'R12:'.
+Info: Procesando el símbolo 'C10:'.
+Info: Procesando el símbolo 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C11:'.
+Info: Procesando el símbolo 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C12:'.
+Info: Procesando el símbolo 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C13:'.
+Info: Procesando el símbolo 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C14:'.
+Info: Procesando el símbolo 'R17:'.
+Info: Procesando el símbolo 'C15:'.
+Info: Procesando el símbolo 'R18:'.
+Info: Procesando el símbolo 'C16:'.
+Info: Procesando el símbolo 'R19:'.
+Info: Procesando el símbolo 'C17:'.
+Info: Procesando el símbolo 'R20:'.
+Info: Procesando el símbolo 'C18:'.
+Info: Procesando el símbolo 'R21:'.
+Info: Procesando el símbolo 'C19:'.
+Info: Procesando el símbolo 'R22:'.
+Info: Procesando el símbolo 'C20:'.
+Info: Procesando el símbolo 'R23:'.
+Info: Procesando el símbolo 'C21:'.
+Info: Procesando el símbolo 'R24:'.
+Info: Procesando el símbolo 'C22:'.
+Info: Procesando el símbolo 'R25:'.
+Info: Procesando el símbolo 'C23:'.
+Info: Procesando el símbolo 'R26:'.
+Info: Procesando el símbolo 'C24:'.
+Info: Procesando el símbolo 'R27:'.
+Info: Procesando el símbolo 'C25:'.
+Info: Procesando el símbolo 'D2:LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Procesando el símbolo 'C26:'.
+Info: Procesando el símbolo 'R28:'.
+Info: Procesando el símbolo 'C27:'.
+Info: Procesando el símbolo 'R30:'.
+Info: Procesando el símbolo 'C28:'.
+Info: Procesando el símbolo 'R31:'.
+Info: Procesando el símbolo 'C29:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R32:'.
+Info: Procesando el símbolo 'C30:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R33:'.
+Info: Procesando el símbolo 'C31:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R34:'.
+Info: Procesando el símbolo 'C32:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R35:'.
+Info: Procesando el símbolo 'C33:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R36:'.
+Info: Procesando el símbolo 'C34:Capacitor_SMD:C_1206_3216Metric'.
+Info: Procesando el símbolo 'R37:'.
+Info: Procesando el símbolo 'C35:'.
+Info: Procesando el símbolo 'R38:'.
+Info: Procesando el símbolo 'C36:'.
+Info: Procesando el símbolo 'R39:'.
+Info: Procesando el símbolo 'C37:'.
+Info: Procesando el símbolo 'R40:'.
+Info: Procesando el símbolo 'C38:'.
+Info: Procesando el símbolo 'R41:'.
+Info: Procesando el símbolo 'C39:'.
+Info: Procesando el símbolo 'R42:'.
+Info: Procesando el símbolo 'C40:'.
+Info: Procesando el símbolo 'R43:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C41:'.
+Info: Procesando el símbolo 'R44:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'C42:'.
+Info: Procesando el símbolo 'R45:'.
+Info: Procesando el símbolo 'C43:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'R46:'.
+Info: Procesando el símbolo 'C44:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'R47:'.
+Info: Procesando el símbolo 'C45:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'R48:'.
+Info: Procesando el símbolo 'C46:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'R49:'.
+Info: Procesando el símbolo 'C47:Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm'.
+Info: Procesando el símbolo 'R50:'.
+Info: Procesando el símbolo 'C48:Capacitor_SMD:C_0402_1005Metric'.
+Info: Procesando el símbolo 'R51:'.
+Info: Procesando el símbolo 'D1:LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Procesando el símbolo 'R52:'.
+Info: Procesando el símbolo 'R53:'.
+Info: Procesando el símbolo 'TP9:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'D3:Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm'.
+Info: Procesando el símbolo 'R54:'.
+Info: Procesando el símbolo 'D4:LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Procesando el símbolo 'R55:'.
+Info: Procesando el símbolo 'D5:'.
+Info: Procesando el símbolo 'R56:'.
+Info: Procesando el símbolo 'D6:Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm'.
+Info: Procesando el símbolo 'R57:'.
+Info: Procesando el símbolo 'D7:Diode_SMD:D_MiniMELF'.
+Info: Procesando el símbolo 'R58:'.
+Info: Procesando el símbolo 'D8:Diode_SMD:D_MELF'.
+Info: Procesando el símbolo 'R59:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'D9:Diode_SMD:D_MELF'.
+Info: Procesando el símbolo 'R60:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'F1:'.
+Info: Procesando el símbolo 'R61:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'F2:'.
+Info: Procesando el símbolo 'R62:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'F3:'.
+Info: Procesando el símbolo 'R63:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'F4:'.
+Info: Procesando el símbolo 'R64:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'F5:'.
+Info: Procesando el símbolo 'R66:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'FB1:Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder'.
+Info: Procesando el símbolo 'R67:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'J1:'.
+Info: Procesando el símbolo 'R68:Resistor_SMD:R_0402_1005Metric'.
+Info: Procesando el símbolo 'J2:'.
+Info: Procesando el símbolo 'R69:Resistor_SMD:R_0402_1005Metric'.
+Info: Procesando el símbolo 'J3:'.
+Info: Procesando el símbolo 'RV1:Varistor:RV_Disc_D7mm_W4.2mm_P5mm'.
+Info: Procesando el símbolo 'J4:'.
+Info: Procesando el símbolo 'TP1:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J5:'.
+Info: Procesando el símbolo 'TP2:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J6:'.
+Info: Procesando el símbolo 'TP3:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J7:'.
+Info: Procesando el símbolo 'TP4:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J8:'.
+Info: Procesando el símbolo 'TP5:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J9:'.
+Info: Procesando el símbolo 'TP6:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J10:'.
+Info: Procesando el símbolo 'TP7:Connector_Pin:Pin_D1.0mm_L10.0mm'.
+Info: Procesando el símbolo 'J12:Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical'.
+Info: Procesando el símbolo 'TP8:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'J13:Connector_HDMI:HDMI_A_Molex_208658-1001_Horizontal'.
+Info: Procesando el símbolo 'TP10:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'J14:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'TP11:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'JP1:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'TP12:Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork'.
+Info: Procesando el símbolo 'JP2:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U1:'.
+Info: Procesando el símbolo 'JP3:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U2:Converter_ACDC:Converter_ACDC_MeanWell_IRM-20-xx_THT'.
+Info: Procesando el símbolo 'JP4:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U3:'.
+Info: Procesando el símbolo 'JP5:Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U4:'.
+Info: Procesando el símbolo 'JP6:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U5:'.
+Info: Procesando el símbolo 'JP7:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U6:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'JP8:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U7:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'JP9:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U8:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'JP10:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U9:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Procesando el símbolo 'JP11:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U10:AD7768BSTZ:QFP50P1200X1200X160-64N'.
+Info: Procesando el símbolo 'JP12:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U11:CM4102008:MODULE_CM4102008'.
+Info: Procesando el símbolo 'JP13:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U12:Package_QFP:LQFP-144_20x20mm_P0.5mm'.
+Info: Procesando el símbolo 'JP14:Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm'.
+Info: Procesando el símbolo 'U13:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Procesando el símbolo 'K1:Relay_THT:Relay_SPDT_Finder_32.21-x000'.
+Info: Procesando el símbolo 'U14:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Procesando el símbolo 'L1:'.
+Info: Procesando el símbolo 'U15:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'L2:'.
+Info: Procesando el símbolo 'U16:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'U17:Package_SO:SSOP-16_3.9x4.9mm_P0.635mm'.
+Info: Procesando el símbolo 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Procesando el símbolo 'U18:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Procesando el símbolo 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'U19:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Procesando el símbolo 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'U20:CM4IO:TRJG0926HENL'.
+Info: Procesando el símbolo 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Procesando el símbolo 'X1:Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm'.
+Info: Procesando el símbolo 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Añadir JP13 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP14 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir K1 (huella 'Relay_THT:Relay_SPDT_Finder_32.21-x000').
+Añadir R16 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir U19 (huella 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Añadir Q1 (huella 'Package_TO_SOT_SMD:SOT-23').
+Añadir Q2 (huella 'Package_TO_SOT_SMD:SOT-23').
+Añadir R1 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R2 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R3 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir U9 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Añadir R59 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R60 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R61 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R62 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R63 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R64 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R66 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R67 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R68 (huella 'Resistor_SMD:R_0402_1005Metric').
+Añadir R69 (huella 'Resistor_SMD:R_0402_1005Metric').
+Añadir RV1 (huella 'Varistor:RV_Disc_D7mm_W4.2mm_P5mm').
+Añadir TP1 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir TP2 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir R4 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir TP3 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir TP4 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir C29 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir C30 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir C31 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir C32 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir C33 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir C34 (huella 'Capacitor_SMD:C_1206_3216Metric').
+Añadir TP5 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir R13 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir TP6 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir TP7 (huella 'Connector_Pin:Pin_D1.0mm_L10.0mm').
+Añadir TP8 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Añadir X1 (huella 'Oscillator:Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm').
+Añadir TP9 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Añadir TP10 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Añadir C43 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Añadir C44 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Añadir C45 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Añadir C46 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Añadir C47 (huella 'Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm').
+Añadir C48 (huella 'Capacitor_SMD:C_0402_1005Metric').
+Añadir D1 (huella 'LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Añadir TP11 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Añadir D2 (huella 'LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Añadir D3 (huella 'Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm').
+Añadir D4 (huella 'LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Añadir TP12 (huella 'Connector_Pin:Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork').
+Añadir D6 (huella 'Diode_SMD:Nexperia_DSN1608-2_1.6x0.8mm').
+Añadir D7 (huella 'Diode_SMD:D_MiniMELF').
+Añadir D8 (huella 'Diode_SMD:D_MELF').
+Añadir D9 (huella 'Diode_SMD:D_MELF').
+Añadir R43 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir U2 (huella 'Converter_ACDC:Converter_ACDC_MeanWell_IRM-20-xx_THT').
+Añadir R14 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir R44 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir U6 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Añadir FB1 (huella 'Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder').
+Añadir U7 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Añadir U8 (huella 'Package_TO_SOT_SMD:SOT-23-6').
+Añadir R15 (huella 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Añadir U12 (huella 'Package_QFP:LQFP-144_20x20mm_P0.5mm').
+Añadir U13 (huella 'Package_TO_SOT_SMD:SOT-23-5').
+Añadir U14 (huella 'Package_TO_SOT_SMD:SOT-23-5').
+Añadir U15 (huella 'Package_TO_SOT_SMD:SOT-23').
+Añadir U16 (huella 'Package_TO_SOT_SMD:SOT-23').
+Añadir U17 (huella 'Package_SO:SSOP-16_3.9x4.9mm_P0.635mm').
+Añadir U18 (huella 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Añadir J12 (huella 'Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical').
+Añadir J13 (huella 'Connector_HDMI:HDMI_A_Molex_208658-1001_Horizontal').
+Añadir J14 (huella 'Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical').
+Añadir JP1 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP2 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP3 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP4 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP5 (huella 'Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm').
+Añadir JP6 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP7 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP8 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP9 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP10 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP11 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Añadir JP12 (huella 'Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm').
+Error: No puede añadirse C1 (no se ha asignado huella).
+Error: No puede añadirse C2 (no se ha asignado huella).
+Error: No puede añadirse C3 (no se ha asignado huella).
+Error: No puede añadirse C4 (no se ha asignado huella).
+Error: No puede añadirse C5 (no se ha asignado huella).
+Error: No puede añadirse C6 (no se ha asignado huella).
+Error: No puede añadirse C7 (no se ha asignado huella).
+Error: No puede añadirse C8 (no se ha asignado huella).
+Error: No puede añadirse C9 (no se ha asignado huella).
+Error: No puede añadirse C10 (no se ha asignado huella).
+Error: No puede añadirse C11 (no se ha asignado huella).
+Error: No puede añadirse C12 (no se ha asignado huella).
+Error: No puede añadirse C13 (no se ha asignado huella).
+Error: No puede añadirse C14 (no se ha asignado huella).
+Error: No puede añadirse C15 (no se ha asignado huella).
+Error: No puede añadirse C16 (no se ha asignado huella).
+Error: No puede añadirse C17 (no se ha asignado huella).
+Error: No puede añadirse C18 (no se ha asignado huella).
+Error: No puede añadirse C19 (no se ha asignado huella).
+Error: No puede añadirse C20 (no se ha asignado huella).
+Error: No puede añadirse C21 (no se ha asignado huella).
+Error: No puede añadirse C22 (no se ha asignado huella).
+Error: No puede añadirse C23 (no se ha asignado huella).
+Error: No puede añadirse C24 (no se ha asignado huella).
+Error: No puede añadirse C27 (no se ha asignado huella).
+Error: No puede añadirse C28 (no se ha asignado huella).
+Error: No puede añadirse C35 (no se ha asignado huella).
+Error: No puede añadirse C36 (no se ha asignado huella).
+Error: No puede añadirse C37 (no se ha asignado huella).
+Error: No puede añadirse C38 (no se ha asignado huella).
+Error: No puede añadirse C39 (no se ha asignado huella).
+Error: No puede añadirse C40 (no se ha asignado huella).
+Error: No puede añadirse C41 (no se ha asignado huella).
+Error: No puede añadirse C42 (no se ha asignado huella).
+Error: No puede añadirse C25 (no se ha asignado huella).
+Error: No puede añadirse D5 (no se ha asignado huella).
+Error: No puede añadirse F1 (no se ha asignado huella).
+Error: No puede añadirse F2 (no se ha asignado huella).
+Error: No puede añadirse F3 (no se ha asignado huella).
+Error: No puede añadirse F4 (no se ha asignado huella).
+Error: No puede añadirse F5 (no se ha asignado huella).
+Error: No puede añadirse J1 (no se ha asignado huella).
+Error: No puede añadirse J2 (no se ha asignado huella).
+Error: No puede añadirse J3 (no se ha asignado huella).
+Error: No puede añadirse J4 (no se ha asignado huella).
+Error: No puede añadirse J5 (no se ha asignado huella).
+Error: No puede añadirse J6 (no se ha asignado huella).
+Error: No puede añadirse J7 (no se ha asignado huella).
+Error: No puede añadirse J8 (no se ha asignado huella).
+Error: No puede añadirse J9 (no se ha asignado huella).
+Error: No puede añadirse J10 (no se ha asignado huella).
+Error: No puede añadirse L1 (no se ha asignado huella).
+Error: No puede añadirse L2 (no se ha asignado huella).
+Error: No puede añadirse R33 (no se ha asignado huella).
+Error: No puede añadirse R55 (no se ha asignado huella).
+Error: No puede añadirse R40 (no se ha asignado huella).
+Error: No puede añadirse R8 (no se ha asignado huella).
+Error: No puede añadirse R22 (no se ha asignado huella).
+Error: No puede añadirse R30 (no se ha asignado huella).
+Error: No puede añadirse R34 (no se ha asignado huella).
+Error: No puede añadirse R56 (no se ha asignado huella).
+Error: No puede añadirse R41 (no se ha asignado huella).
+Error: No puede añadirse R19 (no se ha asignado huella).
+Error: No puede añadirse R9 (no se ha asignado huella).
+Error: No puede añadirse R17 (no se ha asignado huella).
+Error: No puede añadirse R42 (no se ha asignado huella).
+Error: No puede añadirse R35 (no se ha asignado huella).
+Error: No puede añadirse R23 (no se ha asignado huella).
+Error: No puede añadirse U1 (no se ha asignado huella).
+Error: No puede añadirse R57 (no se ha asignado huella).
+Error: No puede añadirse R12 (no se ha asignado huella).
+Error: No puede añadirse R31 (no se ha asignado huella).
+Error: No puede añadirse U3 (no se ha asignado huella).
+Error: No puede añadirse R36 (no se ha asignado huella).
+Error: No puede añadirse U4 (no se ha asignado huella).
+Error: No puede añadirse R24 (no se ha asignado huella).
+Error: No puede añadirse U5 (no se ha asignado huella).
+Error: No puede añadirse R45 (no se ha asignado huella).
+Error: No puede añadirse R58 (no se ha asignado huella).
+Error: No puede añadirse R7 (no se ha asignado huella).
+Error: No puede añadirse R20 (no se ha asignado huella).
+Error: No puede añadirse R46 (no se ha asignado huella).
+Error: No puede añadirse R11 (no se ha asignado huella).
+Error: No puede añadirse R25 (no se ha asignado huella).
+Error: No puede añadirse C26 (no se ha asignado huella).
+Error: No puede añadirse R47 (no se ha asignado huella).
+Error: No puede añadirse U10 (no se ha encontrado la huella 'AD7768BSTZ:QFP50P1200X1200X160-64N').
+Error: No puede añadirse R37 (no se ha asignado huella).
+Error: No puede añadirse U11 (no se ha encontrado la huella 'CM4102008:MODULE_CM4102008').
+Error: No puede añadirse R48 (no se ha asignado huella).
+Error: No puede añadirse R29 (no se ha asignado huella).
+Error: No puede añadirse R26 (no se ha asignado huella).
+Error: No puede añadirse R5 (no se ha asignado huella).
+Error: No puede añadirse R49 (no se ha asignado huella).
+Error: No puede añadirse R32 (no se ha asignado huella).
+Error: No puede añadirse R10 (no se ha asignado huella).
+Error: No puede añadirse R38 (no se ha asignado huella).
+Error: No puede añadirse R50 (no se ha asignado huella).
+Error: No puede añadirse R54 (no se ha asignado huella).
+Error: No puede añadirse R27 (no se ha asignado huella).
+Error: No puede añadirse R21 (no se ha asignado huella).
+Error: No puede añadirse R51 (no se ha asignado huella).
+Error: No puede añadirse R18 (no se ha asignado huella).
+Error: No puede añadirse R39 (no se ha asignado huella).
+Error: No puede añadirse R6 (no se ha asignado huella).
+Error: No puede añadirse R52 (no se ha asignado huella).
+Error: No puede añadirse U20 (no se ha encontrado la huella 'CM4IO:TRJG0926HENL').
+Error: No puede añadirse R28 (no se ha asignado huella).
+Error: No puede añadirse R53 (no se ha asignado huella).
+
+
+Info: Número de avisos: 0, errores: 109.
